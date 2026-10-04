@@ -6,7 +6,7 @@ El proyecto traduce la planta física de un almacén a un **grafo ponderado y no
 
 ---
 
-## 🚀 Características Principales
+## Características Principales
 
 * **Modelamiento Topológico:** Representación formal de pasillos, conexiones, puntos de picking y zona de despacho.
 * **Control Interactivo LOD (Level of Detail):** 
@@ -16,7 +16,7 @@ El proyecto traduce la planta física de un almacén a un **grafo ponderado y no
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 .
@@ -26,3 +26,16 @@ El proyecto traduce la planta física de un almacén a un **grafo ponderado y no
 ├── Creacion_imagen.py      # Script para generar la gráfica comparativa de complejidad
 └── README.md               # Documentación del proyecto
 
+📊 Estructura de los Datasets
+1. dataset_nodos.csv
+Almacena las entidades y atributos espaciales de la planta:
+* codigo: Identificador alfanumérico único[cite: 3, 5].
+nombre: Denominación del producto o pasillo[cite: 3, 5].
+categoria: Clasificación del punto (INICIO, Pasillo, Salida, o categorías de productos).
+x, y: Coordenadas cartesianas bidimensionales en la planta.
+
+2. dataset_aristas.csv
+Define las adyacencias y transitabilidad entre nodos[cite: 3, 5]:
+Nodo1: Código del extremo inicial.
+Nodo2: Código del extremo final.
+peso: Distancia euclidiana métrica entre ambos puntos. 
