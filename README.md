@@ -84,11 +84,11 @@ python modelamiento_grafo.py
 ```bash
 python Creacion_imagen.py
 ```
-*   Despliega la comparación asintótica entre el enfoque por Fuerza Bruta $O(n!)$ y la optimización Held-Karp $O(n^2 \cdot 2^n)$[cite: 1].
+*   Despliega la comparación asintótica entre el enfoque por Fuerza Bruta O(n!) y la optimización Held-Karp O(n^2 * 2^n).
 
 ## 🔬 Análisis de Complejidad y Algoritmos
 
-Para resolver el problema del viajante de comercio (TSP) aplicado al *Order Picking*[cite: 1]:
+Para resolver el problema del viajante de comercio (TSP) aplicado al *Order Picking*:
 
-*   Fuerza Bruta ($O(n!)$): Computacionalmente inviable cuando el número de productos por pedido supera $n > 10$, sobrepasando rápidamente los 3.6 millones de operaciones[cite: 1].
-*   Held-Karp ($O(n^2 \cdot 2^n)$): Optimización mediante Programación Dinámica que reduce de manera exponencial los tiempos de procesamiento en listas intermedias de extracción[cite: 1].
+*   Fuerza Bruta (O(n!)): Computacionalmente inviable cuando el número de productos por pedido supera n > 10, sobrepasando rápidamente los 3.6 millones de operaciones.
+*   Held-Karp (O(n^2 * 2^n)): Optimización mediante Programación Dinámica que reduce de manera exponencial los tiempos de procesamiento en listas intermedias de extracción.
