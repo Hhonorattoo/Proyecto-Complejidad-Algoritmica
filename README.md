@@ -11,7 +11,7 @@ El proyecto traduce la planta física de un almacén a un **grafo ponderado y no
 * **Modelamiento Topológico:** Representación formal de pasillos, conexiones, puntos de picking y zona de despacho.
 * **Control Interactivo LOD (Level of Detail):** 
   * *Vista Panorámica:* Muestra la estructura general del almacén segmentada por colores.
-  * *Vista en Acercamiento (Zoom):* Oculta los puntos de alta densidad y despliega dinámicamente las cajas con los códigos de cada producto y los pesos métricos (distancias) en cada arista[cite: 2, 3].
+  * *Vista en Acercamiento (Zoom):* Oculta los puntos de alta densidad y despliega dinámicamente las cajas con los códigos de cada producto y los pesos métricos (distancias) en cada arista.
 * **Análisis de Complejidad Computacional:** Evaluación comparativa en escalas lineal y logarítmica entre la solución por **Fuerza Bruta** $O(n!)$ y **Programación Dinámica / Held-Karp** $O(n^2 \cdot 2^n)$.
 
 ---
@@ -90,5 +90,5 @@ python Creacion_imagen.py
 
 Para resolver el problema del viajante de comercio (TSP) aplicado al *Order Picking*[cite: 1]:
 
-*   **Fuerza Bruta ($O(n!)$):** Computacionalmente inviable cuando el número de productos por pedido supera $n > 10$, sobrepasando rápidamente los 3.6 millones de operaciones[cite: 1].
-*   **Held-Karp ($O(n^2 \cdot 2^n)$):** Optimización mediante Programación Dinámica que reduce de manera exponencial los tiempos de procesamiento en listas intermedias de extracción[cite: 1].
+*   Fuerza Bruta ($O(n!)$): Computacionalmente inviable cuando el número de productos por pedido supera $n > 10$, sobrepasando rápidamente los 3.6 millones de operaciones[cite: 1].
+*   Held-Karp ($O(n^2 \cdot 2^n)$): Optimización mediante Programación Dinámica que reduce de manera exponencial los tiempos de procesamiento en listas intermedias de extracción[cite: 1].
