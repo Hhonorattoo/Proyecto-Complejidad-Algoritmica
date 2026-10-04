@@ -25,6 +25,7 @@ El proyecto traduce la planta física de un almacén a un **grafo ponderado y no
 ├── modelamiento_grafo.py   # Script de visualización e interacción LOD del grafo
 ├── Creacion_imagen.py      # Script para generar la gráfica comparativa de complejidad
 └── README.md               # Documentación del proyecto
+´´´
 
 📊 Estructura de los Datasets
 1. dataset_nodos.csv
