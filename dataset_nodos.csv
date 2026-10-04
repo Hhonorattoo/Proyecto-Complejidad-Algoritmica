@@ -1,0 +1,1542 @@
+codigo,nombre,categoria,x,y
+I,despacho,INICIO,0,0
+JBG4L,Comida seca para perro adulto,Mascotas,60,25
+051AL,Arroz extra,Abarrotes,-200,25
+B8GRU,Pan francés,Panadería y Pastelería,-80,25
+SYD60,Manzana,Frutas y Verduras,-100,25
+CD3U1,Licuadora,Electrohogar,80,25
+ZYTTR,Plátano de seda,Frutas y Verduras,-100,35
+HCN6T,Leche entera,Lácteos,-160,25
+B5PC9,Cuaderno cuadriculado,Librería y Papelería,180,25
+9Z3E8,Filete de tilapia,Pescados y Mariscos,-120,25
+TV98M,Shampoo anticaspa,Cuidado Personal,0,25
+NLFTF,Agua mineral sin gas,Bebidas,-180,25
+1M6JH,Comida seca para cachorro,Mascotas,60,35
+NY7RH,Papas fritas clásicas,Snacks y Golosinas,-40,25
+R7EG9,Azúcar rubia,Abarrotes,-200,35
+QXUMR,Shampoo para cabello graso,Cuidado Personal,0,35
+ZW1ZB,Acondicionador,Cuidado Personal,0,45
+CR5WN,Paracetamol 500 mg,Farmacia y Salud,20,25
+9J9LX,Pechuga de pollo,Carnes y Aves,-140,25
+BQC9K,Sofá de tres cuerpos,Hogar y Muebles,120,25
+2ZDH8,Fideos spaghetti,Abarrotes,-200,45
+LU0MG,Nuggets de pollo,Congelados,-60,25
+50C9D,Mesa de comedor,Hogar y Muebles,120,35
+LDG87,Cafetera eléctrica,Electrohogar,80,35
+TEXGP,Agua con gas,Bebidas,-180,35
+5JKMF,Papas fritas con limón,Snacks y Golosinas,-40,35
+YGLQY,Pelota de fútbol N°5,Deportes,160,25
+C4R07,Hervidor eléctrico,Electrohogar,80,45
+J740O,Chifles,Snacks y Golosinas,-40,45
+FRZU7,Pañales etapa 1,Bebés y Maternidad,40,25
+H7XXE,Cuaderno rayado,Librería y Papelería,180,35
+5WG4T,Gaseosa cola,Bebidas,-180,45
+AMX47,Laptop 15.6 pulgadas,Tecnología y Cómputo,100,25
+PNZC4,Papas fritas congeladas,Congelados,-60,35
+0M5F2,Leche descremada,Lácteos,-160,35
+UV73U,Gaseosa de naranja,Bebidas,-180,55
+1OBI5,Plancha a vapor,Electrohogar,80,55
+G45EF,Martillo,Ferretería y Bricolaje,140,25
+2RROJ,Filete de lenguado,Pescados y Mariscos,-120,35
+085WL,Silla de comedor,Hogar y Muebles,120,45
+DTBL5,Aceite vegetal,Abarrotes,-200,55
+U21AY,Hamburguesa de res,Congelados,-60,45
+04YB1,Pan de molde blanco,Panadería y Pastelería,-80,35
+RLDVZ,Helado de vainilla,Congelados,-60,55
+0GITW,Naranja de jugo,Frutas y Verduras,-100,45
+EN4JR,Freidora de aire,Electrohogar,80,65
+D7LHC,Escritorio,Hogar y Muebles,120,55
+ADECX,Pan integral,Panadería y Pastelería,-80,45
+S2HFP,Muslo de pollo,Carnes y Aves,-140,35
+YWLQK,Leche deslactosada,Lácteos,-160,45
+T9AV8,Pañales etapa 2,Bebés y Maternidad,40,35
+PYGG9,Jugo de naranja,Bebidas,-180,65
+WZARQ,Filete de pejerrey,Pescados y Mariscos,-120,45
+O47C2,Lapicero azul,Librería y Papelería,180,45
+TJ00S,Pelota de vóley,Deportes,160,35
+F8NW5,Ibuprofeno 400 mg,Farmacia y Salud,20,35
+LBCJI,Lápiz HB,Librería y Papelería,180,55
+84O1Q,Pelota de básquet,Deportes,160,45
+PIELP,Cama de dos plazas,Hogar y Muebles,120,65
+EEZ04,Pollo entero,Carnes y Aves,-140,45
+6W4W2,Mouse inalámbrico,Tecnología y Cómputo,100,35
+1ZEMQ,Cancha serrana,Snacks y Golosinas,-40,55
+HA9YT,Borrador,Librería y Papelería,180,65
+9DCVH,Lentejas,Abarrotes,-200,65
+IJTUB,Bonito,Pescados y Mariscos,-120,55
+2C1VY,Detergente en polvo,Limpieza del Hogar,-20,25
+G9L5K,Jabón de tocador,Cuidado Personal,0,55
+7AF6O,Gel de ducha,Cuidado Personal,0,65
+1UNZ3,Alitas de pollo,Carnes y Aves,-140,55
+KN6AI,Yogurt natural,Lácteos,-160,55
+XU46T,Mandarina,Frutas y Verduras,-100,55
+IYKWB,Destornillador plano,Ferretería y Bricolaje,140,35
+W6LIL,Comida húmeda para perro,Mascotas,60,45
+QCDWN,Jurel,Pescados y Mariscos,-120,65
+KG6OT,Uva red globe,Frutas y Verduras,-100,65
+WLT62,Maní salado,Snacks y Golosinas,-40,65
+1WENL,Caballa,Pescados y Mariscos,-120,75
+MJZOX,Teclado mecánico,Tecnología y Cómputo,100,45
+GT1GR,Helado de chocolate,Congelados,-60,65
+TVEVN,Colchón,Hogar y Muebles,120,75
+UZGYU,Amoxicilina 500 mg,Farmacia y Salud,20,45
+4FTNK,Frejoles canario,Abarrotes,-200,75
+8UDYE,Loratadina 10 mg,Farmacia y Salud,20,55
+RWH2T,Jugo de manzana,Bebidas,-180,75
+HC5ZF,Omeprazol 20 mg,Farmacia y Salud,20,65
+CATSH,Fresa,Frutas y Verduras,-100,75
+T8E5B,Detergente líquido,Limpieza del Hogar,-20,35
+OZJM5,Comida seca para gato adulto,Mascotas,60,55
+4UNYK,Lejía,Limpieza del Hogar,-20,45
+46IWE,Lomo fino de res,Carnes y Aves,-140,65
+GOLON,Bistec de res,Carnes y Aves,-140,75
+AVRQS,Almohada,Hogar y Muebles,120,85
+OHVGH,Destornillador estrella,Ferretería y Bricolaje,140,45
+8IZBZ,Yogurt de fresa,Lácteos,-160,65
+5H4QE,Corvina,Pescados y Mariscos,-120,85
+OOZJR,Tajador,Librería y Papelería,180,75
+VLN20,Alicate universal,Ferretería y Bricolaje,140,55
+I2HV2,Pan ciabatta,Panadería y Pastelería,-80,55
+J4L5R,Juego de sábanas,Hogar y Muebles,120,95
+BZYBN,Monitor 24 pulgadas,Tecnología y Cómputo,100,55
+FFMCB,Audífonos Bluetooth,Tecnología y Cómputo,100,65
+2UPD1,Yogurt griego,Lácteos,-160,75
+6BNMP,Frutos secos mixtos,Snacks y Golosinas,-40,75
+L54TA,Vitamina C,Farmacia y Salud,20,75
+H6RNR,Zapatillas de running,Deportes,160,55
+B2FPK,Carne molida,Carnes y Aves,-140,85
+NT4US,Comida para gatitos,Mascotas,60,65
+ZVEL4,Harina preparada,Abarrotes,-200,85
+M4YWN,Llave inglesa,Ferretería y Bricolaje,140,65
+AKSIO,Galletas de vainilla,Snacks y Golosinas,-40,85
+7J1C5,Costillar de cerdo,Carnes y Aves,-140,95
+8RQ0Y,Croissant,Panadería y Pastelería,-80,65
+BT8JK,Parlante portátil,Tecnología y Cómputo,100,75
+IPNUE,Queso fresco,Lácteos,-160,85
+B4337,Néctar de durazno,Bebidas,-180,85
+MOD2O,Pizza congelada,Congelados,-60,75
+OTHUR,Cinta métrica,Ferretería y Bricolaje,140,75
+88N7H,Taladro eléctrico,Ferretería y Bricolaje,140,85
+A62MY,Galletas rellenas de chocolate,Snacks y Golosinas,-40,95
+WIZJ5,Té helado limón,Bebidas,-180,95
+ZER0R,Cable HDMI,Tecnología y Cómputo,100,85
+4N7C5,Empanada de carne,Panadería y Pastelería,-80,75
+7SB6N,Pañales etapa 3,Bebés y Maternidad,40,45
+4ALKV,Atún en conserva,Abarrotes,-200,95
+QI4F5,Cargador USB-C,Tecnología y Cómputo,100,95
+B27RU,Avena en hojuelas,Abarrotes,-200,105
+3VTPY,Microondas,Electrohogar,80,75
+PZ7ZT,Frazada,Hogar y Muebles,120,105
+NCYHG,Memoria USB,Tecnología y Cómputo,100,105
+Q2338,Torta de chocolate,Panadería y Pastelería,-80,85
+HG1W7,Pota,Pescados y Mariscos,-120,95
+NWLIG,Chocolate de leche,Snacks y Golosinas,-40,105
+UZHZ9,Desodorante en barra,Cuidado Personal,0,75
+H5JBY,Short deportivo,Deportes,160,65
+VHDRW,Disco duro externo,Tecnología y Cómputo,100,115
+5HB1V,Aspiradora,Electrohogar,80,85
+85D3W,Salmón fresco,Pescados y Mariscos,-120,105
+LDX39,Bebida isotónica,Bebidas,-180,105
+U7U9P,Router WiFi,Tecnología y Cómputo,100,125
+KC256,Tablet,Tecnología y Cómputo,100,135
+R3LZ2,Torta tres leches,Panadería y Pastelería,-80,95
+DFT3Z,Cortinas,Hogar y Muebles,120,115
+KDVJN,Desodorante roll-on,Cuidado Personal,0,85
+KYLJT,Snack dental para perro,Mascotas,60,75
+Q8R6L,Chuleta de cerdo,Carnes y Aves,-140,105
+7KTNS,Ventilador de pie,Electrohogar,80,95
+D58V7,Estufa eléctrica,Electrohogar,80,105
+XFJQA,Queso mozzarella,Lácteos,-160,95
+Z99UI,Arena sanitaria para gato,Mascotas,60,85
+0U1KN,Collar para perro,Mascotas,60,95
+YMI49,Pasta dental,Cuidado Personal,0,95
+ULLMN,Queso edam,Lácteos,-160,105
+2VQF7,Queso parmesano,Lácteos,-160,115
+ZGUXR,Bebida energizante,Bebidas,-180,115
+000VI,Desinfectante de pisos,Limpieza del Hogar,-20,55
+SHPHH,Resaltador,Librería y Papelería,180,85
+IDKBI,Mantequilla con sal,Lácteos,-160,125
+INQXB,Plumones,Librería y Papelería,180,95
+0WC5M,Broca para concreto,Ferretería y Bricolaje,140,95
+FS6MG,Complejo B,Farmacia y Salud,20,85
+28JXD,Trucha,Pescados y Mariscos,-120,115
+M43OF,Keke de vainilla,Panadería y Pastelería,-80,105
+QB58V,Alfajores,Panadería y Pastelería,-80,115
+SR8DR,Pañales etapa 4,Bebés y Maternidad,40,55
+HVJQ9,Verduras mixtas congeladas,Congelados,-60,85
+73NQ0,Polo deportivo,Deportes,160,75
+TQBGL,Arrocera,Electrohogar,80,115
+IJU9W,Sandwichera,Electrohogar,80,125
+KAMGP,Chocolate amargo,Snacks y Golosinas,-40,115
+E41ZJ,Palta Hass,Frutas y Verduras,-100,85
+V3ZW0,Caramelos de menta,Snacks y Golosinas,-40,125
+QHVBB,Alfombra,Hogar y Muebles,120,125
+HDO4P,Tostadora,Electrohogar,80,135
+C14YZ,Crema de leche,Lácteos,-160,135
+FPTOY,Galletas de avena,Panadería y Pastelería,-80,125
+PVD7B,Limpiavidrios,Limpieza del Hogar,-20,65
+Y3R73,Mancuernas,Deportes,160,85
+2S07Y,Chicles,Snacks y Golosinas,-40,135
+EY3EZ,Sal de mesa,Abarrotes,-200,115
+06HDZ,Merluza,Pescados y Mariscos,-120,125
+9RKDT,Menestras mixtas,Abarrotes,-200,125
+Z646K,Correa retráctil,Mascotas,60,105
+3OBDV,Chicha morada,Bebidas,-180,125
+TUDQW,Multivitamínico,Farmacia y Salud,20,95
+EL6HT,Toallitas húmedas,Bebés y Maternidad,40,65
+UXYWF,Limonada embotellada,Bebidas,-180,135
+PGES4,Chorizo parrillero,Carnes y Aves,-140,115
+FMDPF,Fórmula infantil,Bebés y Maternidad,40,75
+MUZKS,Colores,Librería y Papelería,180,105
+ODSVN,Colchoneta de yoga,Deportes,160,95
+WZYVL,Papilla de frutas,Bebés y Maternidad,40,85
+R9AB0,Suero oral,Farmacia y Salud,20,105
+8DHSN,Regla de 30 cm,Librería y Papelería,180,115
+75GM4,Batidora de mano,Electrohogar,80,145
+Q347Q,Cepillo dental,Cuidado Personal,0,105
+VFGGM,Cereal infantil,Bebés y Maternidad,40,95
+68AN8,Cuerda para saltar,Deportes,160,105
+YT5K7,Alcohol medicinal,Farmacia y Salud,20,115
+SD7TC,Camarón,Pescados y Mariscos,-120,135
+K6LI6,Bandas elásticas,Deportes,160,115
+FZGQL,Pan de yema,Panadería y Pastelería,-80,135
+OPYRL,Lavavajilla líquido,Limpieza del Hogar,-20,75
+GI584,Olla arrocera,Electrohogar,80,155
+PKQBV,Compás,Librería y Papelería,180,125
+J13SR,Cerveza rubia,Bebidas,-180,145
+GYZEV,Arvejas congeladas,Congelados,-60,95
+7CB87,Leche condensada,Lácteos,-160,145
+SKX5B,Enjuague bucal,Cuidado Personal,0,115
+IDZSG,Tijeras escolares,Librería y Papelería,180,135
+TE1X1,Guantes de gimnasio,Deportes,160,125
+A59AG,Choclo desgranado congelado,Congelados,-60,105
+XIQ5F,Salsa de tomate,Abarrotes,-200,135
+7KXTY,Churros,Panadería y Pastelería,-80,145
+Y0D7Y,Clavos,Ferretería y Bricolaje,140,105
+U8XNK,Procesador de alimentos,Electrohogar,80,165
+C0ODV,Smartphone,Tecnología y Cómputo,100,145
+XE8WO,Tornillos autorroscantes,Ferretería y Bricolaje,140,115
+1DN0S,Esponja,Limpieza del Hogar,-20,85
+KS9X5,Biberón anticólico,Bebés y Maternidad,40,105
+STVGH,Smartwatch,Tecnología y Cómputo,100,155
+0SJ4H,Lámpara de mesa,Hogar y Muebles,120,135
+T96P0,Langostino,Pescados y Mariscos,-120,145
+6AIE3,Crema corporal,Cuidado Personal,0,125
+DIKQ7,Webcam HD,Tecnología y Cómputo,100,165
+WLHQT,Botella deportiva,Deportes,160,135
+B97W6,Manjar blanco,Lácteos,-160,155
+KNU5E,Donas glaseadas,Panadería y Pastelería,-80,155
+KP1GR,Empanadas congeladas,Congelados,-60,115
+6I5J6,Pulpo,Pescados y Mariscos,-120,155
+0LFNZ,Protector solar,Cuidado Personal,0,135
+G7IDA,Escoba,Limpieza del Hogar,-20,95
+H8GVV,Refrigeradora,Electrohogar,80,175
+3ZFCI,Pie de limón,Panadería y Pastelería,-80,165
+3SKDD,Mayonesa,Abarrotes,-200,145
+KPWPA,Impresora multifuncional,Tecnología y Cómputo,100,175
+UFQ5X,Cama para mascotas,Mascotas,60,115
+59NBN,Muffin de arándanos,Panadería y Pastelería,-80,175
+FZLNI,Goma en barra,Librería y Papelería,180,145
+2NJSJ,Pintura látex blanca,Ferretería y Bricolaje,140,125
+VHCRZ,Queso crema,Lácteos,-160,165
+EY8JL,Juguete de goma,Mascotas,60,125
+J1VRW,Espejo de pared,Hogar y Muebles,120,145
+ZVFR8,Mermelada de fresa,Abarrotes,-200,155
+N6JT2,Raqueta de tenis,Deportes,160,145
+8L9HR,Café molido,Abarrotes,-200,165
+KQCO9,Pan pita,Panadería y Pastelería,-80,185
+AV08Q,Cartucho de tinta,Tecnología y Cómputo,100,185
+WKYKJ,Filete de pescado empanizado,Congelados,-60,125
+Y3M9U,Lavadora,Electrohogar,80,185
+7OWPW,Hot dog de pavo,Carnes y Aves,-140,125
+T8KAA,Recogedor,Limpieza del Hogar,-20,105
+VX9KV,Crema facial hidratante,Cuidado Personal,0,145
+8I03U,Gomitas de fruta,Snacks y Golosinas,-40,145
+S0AN3,Papel bond A4,Librería y Papelería,180,155
+SSL1R,Chupón de silicona,Bebés y Maternidad,40,115
+3CXID,Shampoo para bebé,Bebés y Maternidad,40,125
+MDTTP,Folder manila,Librería y Papelería,180,165
+9EIYO,Raqueta de bádminton,Deportes,160,155
+49WCP,Aros de cebolla congelados,Congelados,-60,135
+1PP9V,Trapeador,Limpieza del Hogar,-20,115
+M7QK1,Brownie,Panadería y Pastelería,-80,195
+VI84O,Leche evaporada,Abarrotes,-200,175
+YFJFW,Power bank,Tecnología y Cómputo,100,195
+4X79T,Jabón líquido para bebé,Bebés y Maternidad,40,135
+HSZWT,Barra de cereal,Snacks y Golosinas,-40,155
+KW691,Calamar,Pescados y Mariscos,-120,165
+4URYW,Limón,Frutas y Verduras,-100,95
+3R0AE,Brocha,Ferretería y Bricolaje,140,135
+5747O,Vino tinto,Bebidas,-180,155
+R3G2K,Yogurt bebible de durazno,Lácteos,-160,175
+RV2OP,Brócoli congelado,Congelados,-60,145
+STC8B,Archivador,Librería y Papelería,180,175
+NFZ5U,Palomitas de maíz,Snacks y Golosinas,-40,165
+QBFHC,Rodillo,Ferretería y Bricolaje,140,145
+U3TRT,Estante para libros,Hogar y Muebles,120,155
+N698C,Agua oxigenada,Farmacia y Salud,20,125
+WVR38,Mesa de noche,Hogar y Muebles,120,165
+ZVMMY,Cheese tris,Snacks y Golosinas,-40,175
+3POXH,Corrector líquido,Librería y Papelería,180,185
+1NBO3,Leche chocolatada,Lácteos,-160,185
+RBVY2,Ropero,Hogar y Muebles,120,175
+YIYNU,Piña,Frutas y Verduras,-100,105
+S9EVJ,Mango Kent,Frutas y Verduras,-100,115
+WHR0B,Panetón,Panadería y Pastelería,-80,205
+MDD0C,Quinua,Abarrotes,-200,185
+ZYICO,Casco de ciclismo,Deportes,160,165
+QXLZQ,Afeitadora desechable,Cuidado Personal,0,155
+GZF5C,Balde,Limpieza del Hogar,-20,125
+AVWEO,Mango congelado,Congelados,-60,155
+ZDZ9S,Mousepad,Tecnología y Cómputo,100,205
+8WC0Q,Cinta aislante,Ferretería y Bricolaje,140,155
+SSU3D,Pallares,Abarrotes,-200,195
+AOD88,Mantequilla,Abarrotes,-200,205
+46UFE,Bizcocho de naranja,Panadería y Pastelería,-80,215
+BR1FI,Pan de camote,Panadería y Pastelería,-80,225
+MIXWQ,Calculadora científica,Librería y Papelería,180,195
+3NWIQ,Paño de microfibra,Limpieza del Hogar,-20,135
+6H7DS,Kéfir,Lácteos,-160,195
+BDTF7,Gasas estériles,Farmacia y Salud,20,135
+A38Z7,Micrófono USB,Tecnología y Cómputo,100,215
+RFEX2,Pisco quebranta,Bebidas,-180,165
+G11T5,Piqueo snax,Snacks y Golosinas,-40,185
+TICPM,Espuma de afeitar,Cuidado Personal,0,165
+WY4BK,Mochila deportiva,Deportes,160,175
+43GJU,Cable eléctrico,Ferretería y Bricolaje,140,165
+0BUC3,Curitas,Farmacia y Salud,20,145
+C1FYV,Cheesecake de fresa,Panadería y Pastelería,-80,235
+O2I9B,Zapatero,Hogar y Muebles,120,185
+2IZ0W,Pan francés (bolsa x6),Panadería y Pastelería,-80,245
+C0K5U,Papaya,Frutas y Verduras,-100,125
+PODCO,Turrón,Snacks y Golosinas,-40,195
+YRIFS,Fresas congeladas,Congelados,-60,165
+ZI69X,Jamón de pavo,Carnes y Aves,-140,135
+1ADCQ,Estabilizador,Tecnología y Cómputo,100,225
+BTAMW,Cocina a gas,Electrohogar,80,195
+HSSPN,Medias deportivas,Deportes,160,185
+YYH3Z,Crema antipañalitis,Bebés y Maternidad,40,145
+AFRZN,Extractor de jugos,Electrohogar,80,205
+HPHJ4,Tarjeta microSD,Tecnología y Cómputo,100,235
+QTSKM,Rodillera,Deportes,160,195
+WCW88,Pelota para perro,Mascotas,60,135
+QWJO4,Conserva de durazno,Abarrotes,-200,215
+VTLE6,Foco LED,Ferretería y Bricolaje,140,175
+IBRVX,Sandía,Frutas y Verduras,-100,135
+0UU54,Fideos tallarín,Abarrotes,-200,225
+O3BE0,Conchas negras,Pescados y Mariscos,-120,175
+CLOXM,Soporte para laptop,Tecnología y Cómputo,100,245
+M8V4E,Melón,Frutas y Verduras,-100,145
+SCCER,Canilleras,Deportes,160,205
+KOGD9,Toallas higiénicas,Cuidado Personal,0,175
+GVSDW,Mascarillas quirúrgicas,Farmacia y Salud,20,155
+DHZOH,Organizador plástico,Hogar y Muebles,120,195
+2QI63,Requesón,Lácteos,-160,205
+AL7VF,Jamonada,Carnes y Aves,-140,145
+WD9C3,Rascador para gato,Mascotas,60,145
+4J4MA,Juego de ollas,Hogar y Muebles,120,205
+JS3MJ,Candado,Ferretería y Bricolaje,140,185
+636VR,Laptop 15.6 pulgadas (modelo pro),Tecnología y Cómputo,100,255
+F6B4T,Leche en polvo,Lácteos,-160,215
+F5IV1,Sillao,Abarrotes,-200,235
+5UOSB,Termómetro digital,Farmacia y Salud,20,165
+ZS3QD,Choros,Pescados y Mariscos,-120,185
+C26EB,Mochila escolar,Librería y Papelería,180,205
+QP27J,Shampoo para mascotas,Mascotas,60,155
+WB6YE,Queso paria,Lácteos,-160,225
+2R0SR,Palitos de queso,Congelados,-60,175
+K8S5W,Mouse inalámbrico (modelo pro),Tecnología y Cómputo,100,265
+3VDYJ,Almejas,Pescados y Mariscos,-120,195
+R3E92,Bolsas de basura,Limpieza del Hogar,-20,145
+WF6TC,Bisagra,Ferretería y Bricolaje,140,195
+HQWY1,Silbato,Deportes,160,215
+4FAR1,Pan de molde blanco (bolsa x6),Panadería y Pastelería,-80,255
+MD6VS,Cangrejo,Pescados y Mariscos,-120,205
+Q7WZ0,Tocino ahumado,Carnes y Aves,-140,155
+1MK4F,Ceviche de pescado preparado,Pescados y Mariscos,-120,215
+OFPSH,Purificador de aire,Electrohogar,80,215
+AE6YE,Papel higiénico,Cuidado Personal,0,185
+X3H20,Arroz extra (bolsa 500 g),Abarrotes,-200,245
+CSTUK,Red de vóley,Deportes,160,225
+JC0ZM,Lasaña congelada,Congelados,-60,185
+SO86A,Talco para bebé,Bebés y Maternidad,40,155
+DFLSM,Tensiómetro,Farmacia y Salud,20,175
+GYETH,Marshmallows,Snacks y Golosinas,-40,205
+0EDMN,Juego de vasos,Hogar y Muebles,120,215
+BMGEC,Tomate,Frutas y Verduras,-100,155
+64J3Z,Vajilla de cerámica,Hogar y Muebles,120,225
+DQHR2,Hilo dental,Cuidado Personal,0,195
+LWLT5,Leche entera (bolsa 900 ml),Lácteos,-160,235
+N54YI,Pan integral (bolsa x6),Panadería y Pastelería,-80,265
+X34BE,Cartulina,Librería y Papelería,180,215
+UYDZ3,Témperas,Librería y Papelería,180,225
+NX05M,Pan ciabatta (bolsa x6),Panadería y Pastelería,-80,275
+SQOHS,Pan de ajo congelado,Congelados,-60,195
+RQXG9,Antipulgas,Mascotas,60,165
+6X1MQ,Bomba de aire,Deportes,160,235
+WSP1P,Leche descremada (bolsa 900 ml),Lácteos,-160,245
+KRG5C,Comedero de acero,Mascotas,60,175
+WPKRO,Atún fresco,Pescados y Mariscos,-120,225
+2829L,Suavizante de ropa,Limpieza del Hogar,-20,155
+N2N3Z,Anchoveta,Pescados y Mariscos,-120,235
+8CAA3,Jarabe para la tos,Farmacia y Salud,20,185
+H62OK,Croissant (bolsa x6),Panadería y Pastelería,-80,285
+E8UVD,Gaseosa lima limón,Bebidas,-180,175
+1K40I,Chupetes,Snacks y Golosinas,-40,215
+JMPV8,Colonia para bebé,Bebés y Maternidad,40,165
+0TDAE,Bebedero automático,Mascotas,60,185
+U5112,Transportadora,Mascotas,60,195
+DC3OT,Hígado de res,Carnes y Aves,-140,165
+LRCG7,Secadora de cabello,Electrohogar,80,225
+MHUJ3,Hueso de cuero prensado,Mascotas,60,205
+QU5AT,Leche deslactosada (bolsa 900 ml),Lácteos,-160,255
+MSFPP,Cojín decorativo,Hogar y Muebles,120,235
+3J2DB,Azúcar rubia (bolsa 500 g),Abarrotes,-200,255
+P4BD4,Yogurt natural (bolsa 900 ml),Lácteos,-160,265
+7YF8S,Pizarra acrílica,Librería y Papelería,180,235
+APQM3,Fideos spaghetti (bolsa 500 g),Abarrotes,-200,265
+7VGH7,Refresco de maracuyá,Bebidas,-180,185
+AR63D,Serrucho,Ferretería y Bricolaje,140,205
+OEKVX,Empanada de carne (bolsa x6),Panadería y Pastelería,-80,295
+NIO43,Nivel de burbuja,Ferretería y Bricolaje,140,215
+RVA3T,Babero de algodón,Bebés y Maternidad,40,175
+FPBJS,Pelota de fútbol N°5 (talla M),Deportes,160,245
+QAXVW,Teclado mecánico (modelo pro),Tecnología y Cómputo,100,275
+BBV7J,Quitamanchas,Limpieza del Hogar,-20,165
+T6144,Yogurt de fresa (bolsa 900 ml),Lácteos,-160,275
+4IY1T,Pastillas para la garganta,Farmacia y Salud,20,195
+8RC7F,Yogurt griego (bolsa 900 ml),Lácteos,-160,285
+VI7AO,Mameluco de algodón,Bebés y Maternidad,40,185
+1X94J,Kombucha,Bebidas,-180,195
+90G87,Pegamento instantáneo,Ferretería y Bricolaje,140,225
+TWD2F,Agua mineral sin gas (botella 1 L),Bebidas,-180,205
+72HZ0,Colonia,Cuidado Personal,0,205
+G2HCR,Horno eléctrico,Electrohogar,80,235
+2EUOE,Wafer,Snacks y Golosinas,-40,225
+PBRXN,Licuadora (modelo plus),Electrohogar,80,245
+U9CLH,Silicona selladora,Ferretería y Bricolaje,140,235
+S8BC3,Pelota de vóley (talla M),Deportes,160,255
+7IBL6,Sacaleche manual,Bebés y Maternidad,40,195
+G8PTG,Desengrasante,Limpieza del Hogar,-20,175
+RGSH5,Queso fresco (bolsa 900 ml),Lácteos,-160,295
+CFE1F,Cebolla roja,Frutas y Verduras,-100,165
+IA0YD,Ambientador,Limpieza del Hogar,-20,185
+GO1JE,Lisa,Pescados y Mariscos,-120,245
+DTH5Z,Pasas con chocolate,Snacks y Golosinas,-40,235
+S6EQ1,Torta de chocolate (bolsa x6),Panadería y Pastelería,-80,305
+ZPBPJ,Gotas oftálmicas,Farmacia y Salud,20,205
+5IN0B,Nachos,Snacks y Golosinas,-40,245
+NMDXE,Cubiertos de acero,Hogar y Muebles,120,245
+1T2ZG,Pavo entero,Carnes y Aves,-140,175
+WOZS1,Tubo PVC,Ferretería y Bricolaje,140,245
+GN6Q3,Papa blanca,Frutas y Verduras,-100,175
+XIGG4,Papas fritas clásicas (bolsa 200 g),Snacks y Golosinas,-40,255
+MJ7ZJ,Arnés para perro,Mascotas,60,215
+BM1X8,Aceite vegetal (bolsa 500 g),Abarrotes,-200,275
+JPUML,Torta tres leches (bolsa x6),Panadería y Pastelería,-80,315
+E29O2,Churrasco,Carnes y Aves,-140,185
+WWKDL,Alimento para peces,Mascotas,60,225
+GF3V9,Insecticida,Limpieza del Hogar,-20,195
+WV1DZ,Almohadilla de lactancia,Bebés y Maternidad,40,205
+ZNM6D,Cuna portátil,Bebés y Maternidad,40,215
+VCUUO,Cabrilla,Pescados y Mariscos,-120,255
+2MDCU,Agua con gas (botella 1 L),Bebidas,-180,215
+M2R02,Monitor 24 pulgadas (modelo pro),Tecnología y Cómputo,100,285
+06900,Mariscos mixtos congelados,Congelados,-60,205
+EAOUY,Pulpa de maracuyá congelada,Congelados,-60,215
+IV0DE,Audífonos Bluetooth (modelo pro),Tecnología y Cómputo,100,295
+NBN01,Cafetera eléctrica (modelo plus),Electrohogar,80,255
+C2N7A,Keke de vainilla (bolsa x6),Panadería y Pastelería,-80,325
+PNLBA,Papas fritas con limón (bolsa 200 g),Snacks y Golosinas,-40,265
+C377J,Chifles (bolsa 200 g),Snacks y Golosinas,-40,275
+1OMH1,Cojinova,Pescados y Mariscos,-120,265
+B5JHB,Filete de tilapia (bandeja 1 kg),Pescados y Mariscos,-120,275
+P3IRT,Guantes de seguridad,Ferretería y Bricolaje,140,255
+6CLSZ,Pecera pequeña,Mascotas,60,235
+5MVBG,Coche de paseo,Bebés y Maternidad,40,225
+5VMVO,Limpiador de baños,Limpieza del Hogar,-20,205
+34MLX,Crema cicatrizante,Farmacia y Salud,20,215
+TDLXE,Pelota de básquet (talla M),Deportes,160,265
+IEZNV,Esmalte de uñas,Cuidado Personal,0,215
+8E4A7,Comida seca para perro adulto (bolsa 3 kg),Mascotas,60,245
+VMATK,Alfajores (bolsa x6),Panadería y Pastelería,-80,335
+8X5XI,Guantes de limpieza,Limpieza del Hogar,-20,215
+IC0OF,Comida seca para cachorro (bolsa 3 kg),Mascotas,60,255
+ALBJC,Parlante portátil (modelo pro),Tecnología y Cómputo,100,305
+8PZ4K,Nuggets de pollo (bolsa 1 kg),Congelados,-60,225
+L9S0P,Pulpa de cerdo,Carnes y Aves,-140,195
+GAL4M,Galletas de avena (bolsa x6),Panadería y Pastelería,-80,345
+SOAE0,Queso mozzarella (bolsa 900 ml),Lácteos,-160,305
+01Y0T,Sofá de tres cuerpos (modelo moderno),Hogar y Muebles,120,255
+3NUDO,Papas fritas congeladas (bolsa 1 kg),Congelados,-60,235
+XRCAR,Gaseosa cola (botella 1 L),Bebidas,-180,225
+5NYWG,Lentejas (bolsa 500 g),Abarrotes,-200,285
+K7FAZ,Martillo (tamaño mediano),Ferretería y Bricolaje,140,265
+KBTNM,Cancha serrana (bolsa 200 g),Snacks y Golosinas,-40,285
+Z4HSL,Hervidor eléctrico (modelo plus),Electrohogar,80,265
+NC2AC,Destornillador plano (tamaño mediano),Ferretería y Bricolaje,140,275
+Z2684,Destornillador estrella (tamaño mediano),Ferretería y Bricolaje,140,285
+LHS4V,Zapatillas de running (talla M),Deportes,160,275
+T0J83,Post-it,Librería y Papelería,180,245
+39C7N,Calcio con vitamina D,Farmacia y Salud,20,225
+811FP,Filete de lenguado (bandeja 1 kg),Pescados y Mariscos,-120,285
+G4QVY,Queso edam (bolsa 900 ml),Lácteos,-160,315
+988EO,Frejoles canario (bolsa 500 g),Abarrotes,-200,295
+811KY,Tinte para cabello,Cuidado Personal,0,225
+IJ3QR,Filete de pejerrey (bandeja 1 kg),Pescados y Mariscos,-120,295
+MITT7,Pan de yema (bolsa x6),Panadería y Pastelería,-80,355
+ACCUO,Papel toalla,Limpieza del Hogar,-20,225
+RWS5E,Jabón de ropa,Limpieza del Hogar,-20,235
+RYCKJ,Queso parmesano (bolsa 900 ml),Lácteos,-160,325
+U6MUG,Comida húmeda para perro (bolsa 3 kg),Mascotas,60,265
+GFV8Z,Camote,Frutas y Verduras,-100,185
+PVC19,Bastoncillos de algodón,Cuidado Personal,0,235
+RYT28,Gel antibacterial,Farmacia y Salud,20,235
+N8GK7,Churros (bolsa x6),Panadería y Pastelería,-80,365
+GB3BZ,Termómetro digital infantil,Bebés y Maternidad,40,235
+0ZHYV,Paracetamol 500 mg (caja x100),Farmacia y Salud,20,245
+HXLQY,Hamburguesa de res (bolsa 1 kg),Congelados,-60,245
+YP4BP,Mesa de comedor (modelo moderno),Hogar y Muebles,120,265
+OGWRB,Helado de vainilla (bolsa 1 kg),Congelados,-60,255
+R4OI2,Cable HDMI (modelo pro),Tecnología y Cómputo,100,315
+1J79E,Harina preparada (bolsa 500 g),Abarrotes,-200,305
+C5WI4,Helado de chocolate (bolsa 1 kg),Congelados,-60,265
+F3K5T,Alicate universal (tamaño mediano),Ferretería y Bricolaje,140,295
+NMSP5,Pañales etapa 1 (pack ahorro),Bebés y Maternidad,40,245
+SVQMF,Engrapador,Librería y Papelería,180,255
+PGYRA,Maní salado (bolsa 200 g),Snacks y Golosinas,-40,295
+6UMAI,Silla de comedor (modelo moderno),Hogar y Muebles,120,275
+DEAE7,Llave inglesa (tamaño mediano),Ferretería y Bricolaje,140,305
+UDPLS,Short deportivo (talla M),Deportes,160,285
+SBR1S,Bonito (bandeja 1 kg),Pescados y Mariscos,-120,305
+V7IWQ,Cordero,Carnes y Aves,-140,205
+M2Y9V,Jurel (bandeja 1 kg),Pescados y Mariscos,-120,315
+F3QXE,Zanahoria,Frutas y Verduras,-100,195
+CB29W,Atún en conserva (bolsa 500 g),Abarrotes,-200,315
+KLRQ5,Plancha a vapor (modelo plus),Electrohogar,80,275
+E2FHN,Caballa (bandeja 1 kg),Pescados y Mariscos,-120,325
+M4254,Mantequilla con sal (bolsa 900 ml),Lácteos,-160,335
+QZG1P,Avena en hojuelas (bolsa 500 g),Abarrotes,-200,325
+7APY0,Pizza congelada (bolsa 1 kg),Congelados,-60,275
+3YUTM,Crema de leche (bolsa 900 ml),Lácteos,-160,345
+5CS2L,Comida seca para gato adulto (bolsa 3 kg),Mascotas,60,275
+XC7P9,Cuaderno cuadriculado (pack x6),Librería y Papelería,180,265
+X8F52,Cuaderno rayado (pack x6),Librería y Papelería,180,275
+GXHT3,Sal de mesa (bolsa 500 g),Abarrotes,-200,335
+A662C,Verduras mixtas congeladas (bolsa 1 kg),Congelados,-60,285
+FKC0X,Ibuprofeno 400 mg (caja x100),Farmacia y Salud,20,255
+HL6O4,Polo deportivo (talla M),Deportes,160,295
+YELW6,Pañales etapa 2 (pack ahorro),Bebés y Maternidad,40,255
+F1LGV,Freidora de aire (modelo plus),Electrohogar,80,285
+AVAF4,Pañales etapa 3 (pack ahorro),Bebés y Maternidad,40,265
+SIPIA,Microondas (modelo plus),Electrohogar,80,295
+LGGC1,Donas glaseadas (bolsa x6),Panadería y Pastelería,-80,375
+TPNPX,Aspiradora (modelo plus),Electrohogar,80,305
+CD3S3,Salchicha de res,Carnes y Aves,-140,215
+FHJC6,Corvina (bandeja 1 kg),Pescados y Mariscos,-120,335
+SDZ20,Arvejas congeladas (bolsa 1 kg),Congelados,-60,295
+2XIX8,Choclo desgranado congelado (bolsa 1 kg),Congelados,-60,305
+4RQ9V,Pañales etapa 4 (pack ahorro),Bebés y Maternidad,40,275
+8RA5C,Pota (bandeja 1 kg),Pescados y Mariscos,-120,345
+DO3AV,Amoxicilina 500 mg (caja x100),Farmacia y Salud,20,265
+KJ0PI,Pie de limón (bolsa x6),Panadería y Pastelería,-80,385
+KCF03,Shampoo anticaspa (tamaño viaje),Cuidado Personal,0,245
+IG3UM,Mancuernas (talla M),Deportes,160,305
+W8IDZ,Pechuga de pollo (bandeja 1 kg),Carnes y Aves,-140,225
+VKT2S,Lechuga,Frutas y Verduras,-100,205
+Z0ONE,Cargador USB-C (modelo pro),Tecnología y Cómputo,100,325
+DFF37,Espinaca,Frutas y Verduras,-100,215
+63K2O,Memoria USB (modelo pro),Tecnología y Cómputo,100,335
+QHIYR,Muffin de arándanos (bolsa x6),Panadería y Pastelería,-80,395
+1QZLB,Frutos secos mixtos (bolsa 200 g),Snacks y Golosinas,-40,305
+3G4BF,Comida para gatitos (bolsa 3 kg),Mascotas,60,285
+IALIL,Empanadas congeladas (bolsa 1 kg),Congelados,-60,315
+W0QNJ,Escritorio (modelo moderno),Hogar y Muebles,120,285
+OSGJW,Snack dental para perro (bolsa 3 kg),Mascotas,60,295
+PT4CX,Gaseosa de naranja (botella 1 L),Bebidas,-180,235
+2PAF4,Toallitas húmedas (pack ahorro),Bebés y Maternidad,40,285
+Q252U,Cama de dos plazas (modelo moderno),Hogar y Muebles,120,295
+DLTL4,Colchón (modelo moderno),Hogar y Muebles,120,305
+RRC4W,Muslo de pollo (bandeja 1 kg),Carnes y Aves,-140,235
+9LU3I,Cinta métrica (tamaño mediano),Ferretería y Bricolaje,140,315
+POIJ3,Loratadina 10 mg (caja x100),Farmacia y Salud,20,275
+263T4,Lapicero azul (pack x6),Librería y Papelería,180,285
+TU7U9,Ventilador de pie (modelo plus),Electrohogar,80,315
+1W5NC,Detergente en polvo (bolsa 800 g),Limpieza del Hogar,-20,245
+KLS9Q,Jugo de naranja (botella 1 L),Bebidas,-180,245
+076TL,Taladro eléctrico (tamaño mediano),Ferretería y Bricolaje,140,325
+SUWH5,Galletas de vainilla (bolsa 200 g),Snacks y Golosinas,-40,315
+G9VPX,Salmón fresco (bandeja 1 kg),Pescados y Mariscos,-120,355
+WECNG,Fórmula infantil (pack ahorro),Bebés y Maternidad,40,295
+YUT3M,Disco duro externo (modelo pro),Tecnología y Cómputo,100,345
+RHOKG,Arena sanitaria para gato (bolsa 3 kg),Mascotas,60,305
+5OJFA,Papilla de frutas (pack ahorro),Bebés y Maternidad,40,305
+91CQV,Jugo de manzana (botella 1 L),Bebidas,-180,255
+RGQRO,Omeprazol 20 mg (caja x100),Farmacia y Salud,20,285
+EO6GV,Brócoli,Frutas y Verduras,-100,225
+3FVQQ,Detergente líquido (bolsa 800 g),Limpieza del Hogar,-20,255
+LDGTE,Almohada (modelo moderno),Hogar y Muebles,120,315
+J35GC,Leche condensada (bolsa 900 ml),Lácteos,-160,355
+3TMTE,Broca para concreto (tamaño mediano),Ferretería y Bricolaje,140,335
+S7VFM,Néctar de durazno (botella 1 L),Bebidas,-180,265
+ATTLW,Lejía (bolsa 800 g),Limpieza del Hogar,-20,265
+WB7OD,Cereal infantil (pack ahorro),Bebés y Maternidad,40,315
+2DIE6,Galletas rellenas de chocolate (bolsa 200 g),Snacks y Golosinas,-40,325
+Q3856,Trucha (bandeja 1 kg),Pescados y Mariscos,-120,365
+Z15GG,Filete de pescado empanizado (bolsa 1 kg),Congelados,-60,325
+F2SD5,Vitamina C (caja x100),Farmacia y Salud,20,295
+RDD1C,Choclo,Frutas y Verduras,-100,235
+H5S8F,Router WiFi (modelo pro),Tecnología y Cómputo,100,355
+TVNQ9,Tablet (modelo pro),Tecnología y Cómputo,100,365
+C9O0U,Chocolate de leche (bolsa 200 g),Snacks y Golosinas,-40,335
+1PGGG,Collar para perro (bolsa 3 kg),Mascotas,60,315
+WH06F,Pollo entero (bandeja 1 kg),Carnes y Aves,-140,245
+I52M6,Manjar blanco (bolsa 900 ml),Lácteos,-160,365
+7ORXV,Menestras mixtas (bolsa 500 g),Abarrotes,-200,345
+5AOLE,Alitas de pollo (bandeja 1 kg),Carnes y Aves,-140,255
+O9KEF,Juego de sábanas (modelo moderno),Hogar y Muebles,120,325
+RPAOP,Clavos (tamaño mediano),Ferretería y Bricolaje,140,345
+LJY7Y,Pimiento,Frutas y Verduras,-100,245
+MMUVI,Desinfectante de pisos (bolsa 800 g),Limpieza del Hogar,-20,275
+VPDAI,Lomo fino de res (bandeja 1 kg),Carnes y Aves,-140,265
+R898R,Tornillos autorroscantes (tamaño mediano),Ferretería y Bricolaje,140,355
+JY76L,Aros de cebolla congelados (bolsa 1 kg),Congelados,-60,335
+QX3KA,Brócoli congelado (bolsa 1 kg),Congelados,-60,345
+H2AFD,Lápiz HB (pack x6),Librería y Papelería,180,295
+C6O3H,Bistec de res (bandeja 1 kg),Carnes y Aves,-140,275
+HBW0Q,Chocolate amargo (bolsa 200 g),Snacks y Golosinas,-40,345
+0BN1B,Carne molida (bandeja 1 kg),Carnes y Aves,-140,285
+Y050K,Caramelos de menta (bolsa 200 g),Snacks y Golosinas,-40,355
+Q2N8T,Estufa eléctrica (modelo plus),Electrohogar,80,325
+MS4XC,Colchoneta de yoga (talla M),Deportes,160,315
+7RJOT,Biberón anticólico (pack ahorro),Bebés y Maternidad,40,325
+AFZFK,Costillar de cerdo (bandeja 1 kg),Carnes y Aves,-140,295
+BES47,Chicles (bolsa 200 g),Snacks y Golosinas,-40,365
+N877S,Borrador (pack x6),Librería y Papelería,180,305
+HQU5Y,Frazada (modelo moderno),Hogar y Muebles,120,335
+61SRI,Pintura látex blanca (tamaño mediano),Ferretería y Bricolaje,140,365
+XAR27,Té helado limón (botella 1 L),Bebidas,-180,275
+6NEFK,Chupón de silicona (pack ahorro),Bebés y Maternidad,40,335
+ROH60,Complejo B (caja x100),Farmacia y Salud,20,305
+FPG7O,Shampoo para cabello graso (tamaño viaje),Cuidado Personal,0,255
+MGET7,Acondicionador (tamaño viaje),Cuidado Personal,0,265
+330VC,Pan pita (bolsa x6),Panadería y Pastelería,-80,405
+XFD52,Jabón de tocador (tamaño viaje),Cuidado Personal,0,275
+IXOT0,Ajo,Frutas y Verduras,-100,255
+ANLJP,Brownie (bolsa x6),Panadería y Pastelería,-80,415
+U3LLX,Salsa de tomate (bolsa 500 g),Abarrotes,-200,355
+4YSTR,Smartphone (modelo pro),Tecnología y Cómputo,100,375
+Z3RVS,Multivitamínico (caja x100),Farmacia y Salud,20,315
+DNJEU,Correa retráctil (bolsa 3 kg),Mascotas,60,325
+38AIE,Bebida isotónica (botella 1 L),Bebidas,-180,285
+HJH91,Bebida energizante (botella 1 L),Bebidas,-180,295
+2G3I1,Mayonesa (bolsa 500 g),Abarrotes,-200,365
+WXTUK,Chicha morada (botella 1 L),Bebidas,-180,305
+YLKVP,Limpiavidrios (bolsa 800 g),Limpieza del Hogar,-20,285
+LW53Y,Chuleta de cerdo (bandeja 1 kg),Carnes y Aves,-140,305
+EEJTH,Chorizo parrillero (bandeja 1 kg),Carnes y Aves,-140,315
+PIU1M,Merluza (bandeja 1 kg),Pescados y Mariscos,-120,375
+UKEU6,Gomitas de fruta (bolsa 200 g),Snacks y Golosinas,-40,375
+E8XC6,Culantro,Frutas y Verduras,-100,265
+6F63Z,Lavavajilla líquido (bolsa 800 g),Limpieza del Hogar,-20,295
+9I867,Smartwatch (modelo pro),Tecnología y Cómputo,100,385
+T4PFD,Limonada embotellada (botella 1 L),Bebidas,-180,315
+OFXIO,Gel de ducha (tamaño viaje),Cuidado Personal,0,285
+B9UFP,Queso crema (bolsa 900 ml),Lácteos,-160,375
+Y5RRC,Esponja (bolsa 800 g),Limpieza del Hogar,-20,305
+DJUU1,Panetón (bolsa x6),Panadería y Pastelería,-80,425
+DGRP0,Arrocera (modelo plus),Electrohogar,80,335
+I7Q5A,Suero oral (caja x100),Farmacia y Salud,20,325
+YB9T4,Cama para mascotas (bolsa 3 kg),Mascotas,60,335
+4S9D1,Yogurt bebible de durazno (bolsa 900 ml),Lácteos,-160,385
+1X71S,Brocha (tamaño mediano),Ferretería y Bricolaje,140,375
+W2ZQX,Escoba (bolsa 800 g),Limpieza del Hogar,-20,315
+JS38T,Recogedor (bolsa 800 g),Limpieza del Hogar,-20,325
+RE7GP,Mermelada de fresa (bolsa 500 g),Abarrotes,-200,375
+3HV67,Cortinas (modelo moderno),Hogar y Muebles,120,345
+GXIFJ,Leche chocolatada (bolsa 900 ml),Lácteos,-160,395
+A5HTQ,Cuerda para saltar (talla M),Deportes,160,325
+BJVJB,Alcohol medicinal (caja x100),Farmacia y Salud,20,335
+KMGRX,Mango congelado (bolsa 1 kg),Congelados,-60,355
+MRIGS,Sandwichera (modelo plus),Electrohogar,80,345
+9U2AE,Webcam HD (modelo pro),Tecnología y Cómputo,100,395
+9BYAO,Impresora multifuncional (modelo pro),Tecnología y Cómputo,100,405
+UCEVL,Pepino,Frutas y Verduras,-100,275
+ZRALE,Fresas congeladas (bolsa 1 kg),Congelados,-60,365
+049OO,Shampoo para bebé (pack ahorro),Bebés y Maternidad,40,345
+VCB00,Tostadora (modelo plus),Electrohogar,80,355
+LWBMC,Bizcocho de naranja (bolsa x6),Panadería y Pastelería,-80,435
+JXODS,Zapallo,Frutas y Verduras,-100,285
+7UB0D,Camarón (bandeja 1 kg),Pescados y Mariscos,-120,385
+7VPK7,Betarraga,Frutas y Verduras,-100,295
+CPJA6,Desodorante en barra (tamaño viaje),Cuidado Personal,0,295
+4A9ZD,Café molido (bolsa 500 g),Abarrotes,-200,385
+RF0KT,Alfombra (modelo moderno),Hogar y Muebles,120,355
+VQGKJ,Desodorante roll-on (tamaño viaje),Cuidado Personal,0,305
+B6IGN,Rodillo (tamaño mediano),Ferretería y Bricolaje,140,385
+HDE03,Langostino (bandeja 1 kg),Pescados y Mariscos,-120,395
+MYW02,Leche evaporada (bolsa 500 g),Abarrotes,-200,395
+IU7QP,Juguete de goma (bolsa 3 kg),Mascotas,60,345
+V3ERR,Cinta aislante (tamaño mediano),Ferretería y Bricolaje,140,395
+LHSEK,Pasta dental (tamaño viaje),Cuidado Personal,0,315
+27PGY,Batidora de mano (modelo plus),Electrohogar,80,365
+VDJ3C,Pan de camote (bolsa x6),Panadería y Pastelería,-80,445
+SS8CI,Olla arrocera (modelo plus),Electrohogar,80,375
+Z8O7B,Cepillo dental (tamaño viaje),Cuidado Personal,0,325
+D2HYS,Pulpo (bandeja 1 kg),Pescados y Mariscos,-120,405
+9M054,Cartucho de tinta (modelo pro),Tecnología y Cómputo,100,415
+OBXE6,Manzana (malla 1 kg),Frutas y Verduras,-100,305
+T3KJF,Kéfir (bolsa 900 ml),Lácteos,-160,405
+K1DWH,Pelota para perro (bolsa 3 kg),Mascotas,60,355
+52OK5,Requesón (bolsa 900 ml),Lácteos,-160,415
+A4E92,Rascador para gato (bolsa 3 kg),Mascotas,60,365
+11359,Quinua (bolsa 500 g),Abarrotes,-200,405
+OKTG3,Barra de cereal (bolsa 200 g),Snacks y Golosinas,-40,385
+Z09Q4,Calamar (bandeja 1 kg),Pescados y Mariscos,-120,415
+4VXJA,Conchas negras (bandeja 1 kg),Pescados y Mariscos,-120,425
+MOZTH,Agua oxigenada (caja x100),Farmacia y Salud,20,345
+MYP2V,Power bank (modelo pro),Tecnología y Cómputo,100,425
+5K5FV,Mousepad (modelo pro),Tecnología y Cómputo,100,435
+NYC5F,Cerveza rubia (botella 1 L),Bebidas,-180,325
+ZOSYH,Procesador de alimentos (modelo plus),Electrohogar,80,385
+TQA9Z,Cable eléctrico (tamaño mediano),Ferretería y Bricolaje,140,405
+H9PJX,Plátano de seda (malla 1 kg),Frutas y Verduras,-100,315
+5SPWK,Pallares (bolsa 500 g),Abarrotes,-200,415
+PZYTG,Cheesecake de fresa (bolsa x6),Panadería y Pastelería,-80,455
+5Z6VA,Lámpara de mesa (modelo moderno),Hogar y Muebles,120,365
+PVHEL,Espejo de pared (modelo moderno),Hogar y Muebles,120,375
+D5XUO,Pan francés (bandeja x12),Panadería y Pastelería,-80,465
+MEDRA,Gasas estériles (caja x100),Farmacia y Salud,20,355
+ONFYQ,Micrófono USB (modelo pro),Tecnología y Cómputo,100,445
+MN9VF,Palomitas de maíz (bolsa 200 g),Snacks y Golosinas,-40,395
+KGMP3,Foco LED (tamaño mediano),Ferretería y Bricolaje,140,415
+187WL,Trapeador (bolsa 800 g),Limpieza del Hogar,-20,335
+GFT9B,Palitos de queso (bolsa 1 kg),Congelados,-60,375
+SI61F,Vino tinto (botella 1 L),Bebidas,-180,335
+HUZTE,Leche en polvo (bolsa 900 ml),Lácteos,-160,425
+PU1VV,Enjuague bucal (tamaño viaje),Cuidado Personal,0,335
+KJ9EB,Curitas (caja x100),Farmacia y Salud,20,365
+54CB0,Estabilizador (modelo pro),Tecnología y Cómputo,100,455
+CGIZ4,Estante para libros (modelo moderno),Hogar y Muebles,120,385
+22PVL,Tarjeta microSD (modelo pro),Tecnología y Cómputo,100,465
+42KSW,Mascarillas quirúrgicas (caja x100),Farmacia y Salud,20,375
+VEI6N,Mesa de noche (modelo moderno),Hogar y Muebles,120,395
+41DFK,Queso paria (bolsa 900 ml),Lácteos,-160,435
+VHQOS,Hot dog de pavo (bandeja 1 kg),Carnes y Aves,-140,325
+TOEC6,Mantequilla (bolsa 500 g),Abarrotes,-200,425
+7W7XT,Conserva de durazno (bolsa 500 g),Abarrotes,-200,435
+UFPB1,Shampoo para mascotas (bolsa 3 kg),Mascotas,60,375
+YR712,Fideos tallarín (bolsa 500 g),Abarrotes,-200,445
+8GKFM,Refrigeradora (modelo plus),Electrohogar,80,395
+UNP74,Jamón de pavo (bandeja 1 kg),Carnes y Aves,-140,335
+X9M44,Soporte para laptop (modelo pro),Tecnología y Cómputo,100,475
+KAD48,Lavadora (modelo plus),Electrohogar,80,405
+BM9FH,Lasaña congelada (bolsa 1 kg),Congelados,-60,385
+XLTK3,Antipulgas (bolsa 3 kg),Mascotas,60,385
+EL2MH,Choros (bandeja 1 kg),Pescados y Mariscos,-120,435
+89ZIN,Balde (bolsa 800 g),Limpieza del Hogar,-20,345
+YL75R,Laptop 15.6 pulgadas (edición negra),Tecnología y Cómputo,100,485
+ZRMU3,Almejas (bandeja 1 kg),Pescados y Mariscos,-120,445
+W1IBZ,Cocina a gas (modelo plus),Electrohogar,80,415
+5ZP7D,Mouse inalámbrico (edición negra),Tecnología y Cómputo,100,495
+F7ZMK,Comedero de acero (bolsa 3 kg),Mascotas,60,395
+CTQQU,Naranja de jugo (malla 1 kg),Frutas y Verduras,-100,325
+NPFQB,Pan de molde blanco (bandeja x12),Panadería y Pastelería,-80,475
+L52VE,Tajador (pack x6),Librería y Papelería,180,315
+I332H,Candado (tamaño mediano),Ferretería y Bricolaje,140,425
+V30ZU,Bandas elásticas (talla M),Deportes,160,335
+B6D2B,Resaltador (pack x6),Librería y Papelería,180,325
+50JN9,Jamonada (bandeja 1 kg),Carnes y Aves,-140,345
+330WY,Crema corporal (tamaño viaje),Cuidado Personal,0,345
+JSRWZ,Guantes de gimnasio (talla M),Deportes,160,345
+CGREN,Leche entera (vaso 200 g),Lácteos,-160,445
+EPSVU,Pan integral (bandeja x12),Panadería y Pastelería,-80,485
+XVNPS,Jabón líquido para bebé (pack ahorro),Bebés y Maternidad,40,355
+5WYT8,Protector solar (tamaño viaje),Cuidado Personal,0,355
+MR914,Mandarina (malla 1 kg),Frutas y Verduras,-100,335
+7DVDE,Leche descremada (vaso 200 g),Lácteos,-160,455
+TBFDI,Ropero (modelo moderno),Hogar y Muebles,120,405
+0G381,Sillao (bolsa 500 g),Abarrotes,-200,455
+5MMU5,Botella deportiva (talla M),Deportes,160,355
+4UXES,Bisagra (tamaño mediano),Ferretería y Bricolaje,140,435
+Y9WWE,Serrucho (tamaño mediano),Ferretería y Bricolaje,140,445
+WXTVS,Paño de microfibra (bolsa 800 g),Limpieza del Hogar,-20,355
+VUQLI,Uva red globe (malla 1 kg),Frutas y Verduras,-100,345
+8V7U3,Bolsas de basura (bolsa 800 g),Limpieza del Hogar,-20,365
+OOGE3,Plumones (pack x6),Librería y Papelería,180,335
+CYP0J,Extractor de jugos (modelo plus),Electrohogar,80,425
+OE471,Raqueta de tenis (talla M),Deportes,160,365
+Y4AEE,Pisco quebranta (botella 1 L),Bebidas,-180,345
+GCHIJ,Colores (pack x6),Librería y Papelería,180,345
+E3LLQ,Cangrejo (bandeja 1 kg),Pescados y Mariscos,-120,455
+W1WPI,Teclado mecánico (edición negra),Tecnología y Cómputo,100,505
+X5DR6,Pan de ajo congelado (bolsa 1 kg),Congelados,-60,395
+50C5H,Leche deslactosada (vaso 200 g),Lácteos,-160,465
+AX871,Pan ciabatta (bandeja x12),Panadería y Pastelería,-80,495
+2HPAY,Crema antipañalitis (pack ahorro),Bebés y Maternidad,40,365
+D3LTJ,Nivel de burbuja (tamaño mediano),Ferretería y Bricolaje,140,455
+LY7RN,Crema facial hidratante (tamaño viaje),Cuidado Personal,0,365
+3CQQ3,Raqueta de bádminton (talla M),Deportes,160,375
+KC1E5,Zapatero (modelo moderno),Hogar y Muebles,120,415
+0M4CL,Talco para bebé (pack ahorro),Bebés y Maternidad,40,375
+JO86V,Croissant (bandeja x12),Panadería y Pastelería,-80,505
+1PX1O,Empanada de carne (bandeja x12),Panadería y Pastelería,-80,515
+7I5HA,Bebedero automático (bolsa 3 kg),Mascotas,60,405
+IP0N7,Ceviche de pescado preparado (bandeja 1 kg),Pescados y Mariscos,-120,465
+4DYI4,Afeitadora desechable (tamaño viaje),Cuidado Personal,0,375
+R5936,Fresa (malla 1 kg),Frutas y Verduras,-100,355
+96IEG,Palta Hass (malla 1 kg),Frutas y Verduras,-100,365
+VXG5T,Tocino ahumado (bandeja 1 kg),Carnes y Aves,-140,355
+P6ZSV,Suavizante de ropa (bolsa 800 g),Limpieza del Hogar,-20,375
+FTNNA,Hígado de res (bandeja 1 kg),Carnes y Aves,-140,365
+KTMON,Espuma de afeitar (tamaño viaje),Cuidado Personal,0,385
+MZXYY,Colonia para bebé (pack ahorro),Bebés y Maternidad,40,385
+OJGYF,Regla de 30 cm (pack x6),Librería y Papelería,180,355
+46AQX,Organizador plástico (modelo moderno),Hogar y Muebles,120,425
+ZSEWJ,Yogurt natural (vaso 200 g),Lácteos,-160,475
+6924W,Juego de ollas (modelo moderno),Hogar y Muebles,120,435
+NS880,Arroz extra (paquete 250 g),Abarrotes,-200,465
+26H10,Toallas higiénicas (tamaño viaje),Cuidado Personal,0,395
+TCNHZ,Limón (malla 1 kg),Frutas y Verduras,-100,375
+4RJYC,Cheese tris (bolsa 200 g),Snacks y Golosinas,-40,405
+K8TJH,Purificador de aire (modelo plus),Electrohogar,80,435
+GPXYU,Pavo entero (bandeja 1 kg),Carnes y Aves,-140,375
+Z60Y9,Transportadora (bolsa 3 kg),Mascotas,60,415
+IXJI7,Juego de vasos (modelo moderno),Hogar y Muebles,120,445
+EGKP7,Casco de ciclismo (talla M),Deportes,160,385
+G6FEN,Pegamento instantáneo (tamaño mediano),Ferretería y Bricolaje,140,465
+SWXHH,Torta de chocolate (bandeja x12),Panadería y Pastelería,-80,525
+QSJA0,Papel higiénico (tamaño viaje),Cuidado Personal,0,405
+XJ3X0,Secadora de cabello (modelo plus),Electrohogar,80,445
+DE0SZ,Atún fresco (bandeja 1 kg),Pescados y Mariscos,-120,475
+XQ0TR,Mochila deportiva (talla M),Deportes,160,395
+6TQPH,Silicona selladora (tamaño mediano),Ferretería y Bricolaje,140,475
+R1IKU,Piña (malla 1 kg),Frutas y Verduras,-100,385
+KQTWK,Compás (pack x6),Librería y Papelería,180,365
+9C1BJ,Mariscos mixtos congelados (bolsa 1 kg),Congelados,-60,405
+OD319,Hueso de cuero prensado (bolsa 3 kg),Mascotas,60,425
+B6I4T,Termómetro digital (caja x100),Farmacia y Salud,20,385
+YMEBV,Torta tres leches (bandeja x12),Panadería y Pastelería,-80,535
+RL5Y1,Piqueo snax (bolsa 200 g),Snacks y Golosinas,-40,415
+UGCTB,Anchoveta (bandeja 1 kg),Pescados y Mariscos,-120,485
+ZXLJN,Churrasco (bandeja 1 kg),Carnes y Aves,-140,385
+IEMF4,Pulpa de maracuyá congelada (bolsa 1 kg),Congelados,-60,415
+FPT6D,Azúcar rubia (paquete 250 g),Abarrotes,-200,475
+7V0JS,Horno eléctrico (modelo plus),Electrohogar,80,455
+2S2W7,Medias deportivas (talla M),Deportes,160,405
+HIU9N,Yogurt de fresa (vaso 200 g),Lácteos,-160,485
+22RZQ,Licuadora (edición acero),Electrohogar,80,465
+W2SG8,Nuggets de pollo (caja familiar),Congelados,-60,425
+0RKWB,Babero de algodón (pack ahorro),Bebés y Maternidad,40,395
+SR820,Monitor 24 pulgadas (edición negra),Tecnología y Cómputo,100,515
+7UUWQ,Tubo PVC (tamaño mediano),Ferretería y Bricolaje,140,485
+YAZU8,Lisa (bandeja 1 kg),Pescados y Mariscos,-120,495
+TBBF6,Guantes de seguridad (tamaño mediano),Ferretería y Bricolaje,140,495
+QZWTU,Mameluco de algodón (pack ahorro),Bebés y Maternidad,40,405
+ZI1XB,Arnés para perro (bolsa 3 kg),Mascotas,60,435
+UUVYL,Gaseosa lima limón (botella 1 L),Bebidas,-180,355
+VORDB,Yogurt griego (vaso 200 g),Lácteos,-160,495
+CTQFG,Alimento para peces (bolsa 3 kg),Mascotas,60,445
+J920O,Vajilla de cerámica (modelo moderno),Hogar y Muebles,120,455
+B82RH,Tijeras escolares (pack x6),Librería y Papelería,180,375
+TXUL4,Fideos spaghetti (paquete 250 g),Abarrotes,-200,485
+B5QLV,Mango Kent (malla 1 kg),Frutas y Verduras,-100,395
+C96CV,Pecera pequeña (bolsa 3 kg),Mascotas,60,455
+4P6CG,Papas fritas congeladas (caja familiar),Congelados,-60,435
+JXBAN,Martillo (tamaño grande),Ferretería y Bricolaje,140,505
+3U4VI,Hamburguesa de res (caja familiar),Congelados,-60,445
+9J74W,Refresco de maracuyá (botella 1 L),Bebidas,-180,365
+VN98W,Tensiómetro (caja x100),Farmacia y Salud,20,395
+7NEM1,Comida seca para perro adulto (bolsa 15 kg),Mascotas,60,465
+JERAZ,Audífonos Bluetooth (edición negra),Tecnología y Cómputo,100,525
+FRW6F,Cafetera eléctrica (edición acero),Electrohogar,80,475
+V3JE2,Kombucha (botella 1 L),Bebidas,-180,375
+RGJQK,Papaya (malla 1 kg),Frutas y Verduras,-100,405
+6DO3W,Goma en barra (pack x6),Librería y Papelería,180,385
+91VWN,Papel bond A4 (pack x6),Librería y Papelería,180,395
+820B0,Agua mineral sin gas (botella 2.5 L),Bebidas,-180,385
+NZHPT,Parlante portátil (edición negra),Tecnología y Cómputo,100,535
+0CPYD,Helado de vainilla (caja familiar),Congelados,-60,455
+5J0AY,Keke de vainilla (bandeja x12),Panadería y Pastelería,-80,545
+ZEGOR,Cabrilla (bandeja 1 kg),Pescados y Mariscos,-120,505
+6Y8TM,Quitamanchas (bolsa 800 g),Limpieza del Hogar,-20,385
+Z1ZBW,Aceite vegetal (paquete 250 g),Abarrotes,-200,495
+8SXOC,Turrón (bolsa 200 g),Snacks y Golosinas,-40,425
+I1WP5,Sacaleche manual (pack ahorro),Bebés y Maternidad,40,415
+B33AT,Hilo dental (tamaño viaje),Cuidado Personal,0,415
+835WA,Comida seca para cachorro (bolsa 15 kg),Mascotas,60,475
+CT481,Desengrasante (bolsa 800 g),Limpieza del Hogar,-20,395
+ZDYJ8,Cojinova (bandeja 1 kg),Pescados y Mariscos,-120,515
+KCDHP,Helado de chocolate (caja familiar),Congelados,-60,465
+NA98E,Jarabe para la tos (caja x100),Farmacia y Salud,20,405
+AOJ1Z,Pastillas para la garganta (caja x100),Farmacia y Salud,20,415
+XFKU8,Folder manila (pack x6),Librería y Papelería,180,405
+5AZUW,Almohadilla de lactancia (pack ahorro),Bebés y Maternidad,40,425
+WJOBZ,Archivador (pack x6),Librería y Papelería,180,415
+G1T9P,Sandía (malla 1 kg),Frutas y Verduras,-100,415
+MF4QH,Lentejas (paquete 250 g),Abarrotes,-200,505
+E2PFL,Queso fresco (vaso 200 g),Lácteos,-160,505
+L7R1E,Hervidor eléctrico (edición acero),Electrohogar,80,485
+C4OV7,Filete de tilapia (corte limpio),Pescados y Mariscos,-120,525
+XD4HV,Cojín decorativo (modelo moderno),Hogar y Muebles,120,465
+3ER1N,Plancha a vapor (edición acero),Electrohogar,80,495
+0J9HW,Freidora de aire (edición acero),Electrohogar,80,505
+3P7DR,Comida húmeda para perro (bolsa 15 kg),Mascotas,60,485
+75R8B,Rodillera (talla M),Deportes,160,415
+LZBM9,Alfajores (bandeja x12),Panadería y Pastelería,-80,555
+MCXGJ,Cubiertos de acero (modelo moderno),Hogar y Muebles,120,475
+1J0HJ,Melón (malla 1 kg),Frutas y Verduras,-100,425
+5OAEX,Filete de lenguado (corte limpio),Pescados y Mariscos,-120,535
+SD7U7,Corrector líquido (pack x6),Librería y Papelería,180,425
+DTMW0,Queso mozzarella (vaso 200 g),Lácteos,-160,515
+AS8D8,Filete de pejerrey (corte limpio),Pescados y Mariscos,-120,545
+6E439,Marshmallows (bolsa 200 g),Snacks y Golosinas,-40,435
+JSH1T,Frejoles canario (paquete 250 g),Abarrotes,-200,515
+0HMI2,Tomate (malla 1 kg),Frutas y Verduras,-100,435
+SHG4S,Canilleras (talla M),Deportes,160,425
+MV7SH,Cable HDMI (edición negra),Tecnología y Cómputo,100,545
+B3JSZ,Cebolla roja (malla 1 kg),Frutas y Verduras,-100,445
+8Y94X,Agua con gas (botella 2.5 L),Bebidas,-180,395
+DO6DR,Destornillador plano (tamaño grande),Ferretería y Bricolaje,140,515
+3Z4WR,Pizza congelada (caja familiar),Congelados,-60,475
+5794M,Queso edam (vaso 200 g),Lácteos,-160,525
+BBN95,Destornillador estrella (tamaño grande),Ferretería y Bricolaje,140,525
+RC1XC,Cargador USB-C (edición negra),Tecnología y Cómputo,100,555
+IKM8I,Chupetes (bolsa 200 g),Snacks y Golosinas,-40,445
+NSN6F,Papa blanca (malla 1 kg),Frutas y Verduras,-100,455
+7WH6V,Wafer (bolsa 200 g),Snacks y Golosinas,-40,455
+9BJH8,Memoria USB (edición negra),Tecnología y Cómputo,100,565
+ZIOPR,Bonito (corte limpio),Pescados y Mariscos,-120,555
+208NU,Pasas con chocolate (bolsa 200 g),Snacks y Golosinas,-40,465
+QQNIJ,Nachos (bolsa 200 g),Snacks y Golosinas,-40,475
+9IAY0,Gotas oftálmicas (caja x100),Farmacia y Salud,20,425
+3JULB,Camote (malla 1 kg),Frutas y Verduras,-100,465
+0CNS7,Verduras mixtas congeladas (caja familiar),Congelados,-60,485
+1EC7Y,Queso parmesano (vaso 200 g),Lácteos,-160,535
+BHIP9,Silbato (talla M),Deportes,160,435
+V7JB0,Ambientador (bolsa 800 g),Limpieza del Hogar,-20,405
+29AJ2,Jurel (corte limpio),Pescados y Mariscos,-120,565
+3B4QF,Gaseosa cola (botella 2.5 L),Bebidas,-180,405
+8JNNO,Red de vóley (talla M),Deportes,160,445
+O9E1Z,Caballa (corte limpio),Pescados y Mariscos,-120,575
+O3QRC,Comida seca para gato adulto (bolsa 15 kg),Mascotas,60,495
+9JEII,Disco duro externo (edición negra),Tecnología y Cómputo,100,575
+1IT4L,Colonia (tamaño viaje),Cuidado Personal,0,425
+OASXK,Microondas (edición acero),Electrohogar,80,515
+M3VEJ,Insecticida (bolsa 800 g),Limpieza del Hogar,-20,415
+H2BZG,Sofá de tres cuerpos (color gris),Hogar y Muebles,120,485
+DLTS8,Zanahoria (malla 1 kg),Frutas y Verduras,-100,475
+AOD95,Bomba de aire (talla M),Deportes,160,455
+LEZB7,Harina preparada (paquete 250 g),Abarrotes,-200,525
+R7LJQ,Papas fritas clásicas (pack x10),Snacks y Golosinas,-40,485
+Z870L,Aspiradora (edición acero),Electrohogar,80,525
+TXASX,Crema cicatrizante (caja x100),Farmacia y Salud,20,435
+VHT2E,Corvina (corte limpio),Pescados y Mariscos,-120,585
+FKVL2,Comida para gatitos (bolsa 15 kg),Mascotas,60,505
+7K3IT,Cuna portátil (pack ahorro),Bebés y Maternidad,40,435
+2MGW4,Pota (corte limpio),Pescados y Mariscos,-120,595
+332EE,Coche de paseo (pack ahorro),Bebés y Maternidad,40,445
+X4KFO,Pelota de fútbol N°5 (talla L),Deportes,160,465
+WYQ51,Mantequilla con sal (vaso 200 g),Lácteos,-160,545
+IX4E3,Ventilador de pie (edición acero),Electrohogar,80,535
+DDU46,Alicate universal (tamaño grande),Ferretería y Bricolaje,140,535
+LY5S3,Salmón fresco (corte limpio),Pescados y Mariscos,-120,605
+QP4LK,Termómetro digital infantil (pack ahorro),Bebés y Maternidad,40,455
+O7B4Q,Mesa de comedor (color gris),Hogar y Muebles,120,495
+5FEYJ,Calculadora científica (pack x6),Librería y Papelería,180,435
+5HSGH,Esmalte de uñas (tamaño viaje),Cuidado Personal,0,435
+81DBC,Estufa eléctrica (edición acero),Electrohogar,80,545
+3MPXC,Snack dental para perro (bolsa 15 kg),Mascotas,60,515
+8XWUV,Limpiador de baños (bolsa 800 g),Limpieza del Hogar,-20,425
+O4C55,Mochila escolar (pack x6),Librería y Papelería,180,445
+VZIJC,Guantes de limpieza (bolsa 800 g),Limpieza del Hogar,-20,435
+R3G9L,Pañales etapa 1 (edición suave),Bebés y Maternidad,40,465
+TM3OB,Router WiFi (edición negra),Tecnología y Cómputo,100,585
+S322I,Crema de leche (vaso 200 g),Lácteos,-160,555
+CT0Q8,Galletas de avena (bandeja x12),Panadería y Pastelería,-80,565
+G5UP9,Arena sanitaria para gato (bolsa 15 kg),Mascotas,60,525
+KGEOP,Papel toalla (bolsa 800 g),Limpieza del Hogar,-20,445
+BC51J,Tinte para cabello (tamaño viaje),Cuidado Personal,0,445
+8V0ST,Collar para perro (bolsa 15 kg),Mascotas,60,535
+4BVVW,Lechuga (malla 1 kg),Frutas y Verduras,-100,485
+H8O5M,Espinaca (malla 1 kg),Frutas y Verduras,-100,495
+P8DLK,Bastoncillos de algodón (tamaño viaje),Cuidado Personal,0,455
+66S2S,Pañales etapa 2 (edición suave),Bebés y Maternidad,40,475
+JCPB2,Brócoli (malla 1 kg),Frutas y Verduras,-100,505
+Y55H6,Choclo (malla 1 kg),Frutas y Verduras,-100,515
+WXZ1Z,Calcio con vitamina D (caja x100),Farmacia y Salud,20,445
+7FQIU,Pimiento (malla 1 kg),Frutas y Verduras,-100,525
+O93VU,Silla de comedor (color gris),Hogar y Muebles,120,505
+VQIFR,Jabón de ropa (bolsa 800 g),Limpieza del Hogar,-20,455
+IMI4O,Ajo (malla 1 kg),Frutas y Verduras,-100,535
+U0XWS,Atún en conserva (paquete 250 g),Abarrotes,-200,535
+I9019,Trucha (corte limpio),Pescados y Mariscos,-120,615
+BG8XZ,Shampoo anticaspa (pack x2),Cuidado Personal,0,465
+YZ8FU,Avena en hojuelas (paquete 250 g),Abarrotes,-200,545
+5GWGW,Arrocera (edición acero),Electrohogar,80,555
+9P1NE,Cartulina (pack x6),Librería y Papelería,180,455
+912TN,Sal de mesa (paquete 250 g),Abarrotes,-200,555
+6ZJFA,Shampoo para cabello graso (pack x2),Cuidado Personal,0,475
+475NP,Pan de yema (bandeja x12),Panadería y Pastelería,-80,575
+EQ476,Papas fritas con limón (pack x10),Snacks y Golosinas,-40,495
+CQ0U6,Culantro (malla 1 kg),Frutas y Verduras,-100,545
+YSS4Q,Tablet (edición negra),Tecnología y Cómputo,100,595
+W0Y5O,Churros (bandeja x12),Panadería y Pastelería,-80,585
+KAN7C,Leche condensada (vaso 200 g),Lácteos,-160,565
+22I8C,Pelota de vóley (talla L),Deportes,160,475
+VMYCE,Correa retráctil (bolsa 15 kg),Mascotas,60,545
+S538S,Gel antibacterial (caja x100),Farmacia y Salud,20,455
+JKLC7,Pulpa de cerdo (bandeja 1 kg),Carnes y Aves,-140,395
+X2Q0A,Llave inglesa (tamaño grande),Ferretería y Bricolaje,140,545
+35YJ1,Pelota de básquet (talla L),Deportes,160,485
+ZXZMD,Detergente en polvo (presentación 2 L),Limpieza del Hogar,-20,465
+WPY1V,Zapatillas de running (talla L),Deportes,160,495
+R2NHT,Gaseosa de naranja (botella 2.5 L),Bebidas,-180,415
+38SCB,Cordero (bandeja 1 kg),Carnes y Aves,-140,405
+ZFHDK,Chifles (pack x10),Snacks y Golosinas,-40,505
+MXLLP,Témperas (pack x6),Librería y Papelería,180,465
+LPRL5,Pañales etapa 3 (edición suave),Bebés y Maternidad,40,485
+WUC0U,Paracetamol 500 mg (frasco 120 ml),Farmacia y Salud,20,465
+9NHQR,Cancha serrana (pack x10),Snacks y Golosinas,-40,515
+4AB0O,Pizarra acrílica (pack x6),Librería y Papelería,180,475
+HVGFZ,Sandwichera (edición acero),Electrohogar,80,565
+EZD5N,Salchicha de res (bandeja 1 kg),Carnes y Aves,-140,415
+1WULL,Tostadora (edición acero),Electrohogar,80,575
+RTGEB,Manjar blanco (vaso 200 g),Lácteos,-160,575
+ZHB4V,Maní salado (pack x10),Snacks y Golosinas,-40,525
+NY9EY,Post-it (pack x6),Librería y Papelería,180,485
+Y5WNQ,Pepino (malla 1 kg),Frutas y Verduras,-100,555
+TF64A,Smartphone (edición negra),Tecnología y Cómputo,100,605
+TXVS3,Merluza (corte limpio),Pescados y Mariscos,-120,625
+7HJLG,Camarón (corte limpio),Pescados y Mariscos,-120,635
+MIT2L,Acondicionador (pack x2),Cuidado Personal,0,485
+USFJV,Langostino (corte limpio),Pescados y Mariscos,-120,645
+W6XR8,Short deportivo (talla L),Deportes,160,505
+KBYXY,Donas glaseadas (bandeja x12),Panadería y Pastelería,-80,595
+0G0Z8,Smartwatch (edición negra),Tecnología y Cómputo,100,615
+36R5L,Engrapador (pack x6),Librería y Papelería,180,495
+83L66,Cama para mascotas (bolsa 15 kg),Mascotas,60,555
+5TAE4,Batidora de mano (edición acero),Electrohogar,80,585
+0MCLE,Webcam HD (edición negra),Tecnología y Cómputo,100,625
+3FGYL,Juguete de goma (bolsa 15 kg),Mascotas,60,565
+7D074,Polo deportivo (talla L),Deportes,160,515
+G2ALQ,Arvejas congeladas (caja familiar),Congelados,-60,495
+Z8WEK,Pulpo (corte limpio),Pescados y Mariscos,-120,655
+CG7UV,Jugo de naranja (botella 2.5 L),Bebidas,-180,425
+NR57E,Choclo desgranado congelado (caja familiar),Congelados,-60,505
+Z3QP6,Pie de limón (bandeja x12),Panadería y Pastelería,-80,605
+D39IT,Pañales etapa 4 (edición suave),Bebés y Maternidad,40,495
+16NMC,Zapallo (malla 1 kg),Frutas y Verduras,-100,565
+A3UDD,Empanadas congeladas (caja familiar),Congelados,-60,515
+3AES4,Escritorio (color gris),Hogar y Muebles,120,515
+YMLF1,Cuaderno cuadriculado (pack x12),Librería y Papelería,180,505
+VNXD0,Jabón de tocador (pack x2),Cuidado Personal,0,495
+Z11TR,Impresora multifuncional (edición negra),Tecnología y Cómputo,100,635
+16CWU,Cama de dos plazas (color gris),Hogar y Muebles,120,525
+R16I9,Betarraga (malla 1 kg),Frutas y Verduras,-100,575
+GCZAP,Manzana (bandeja 500 g),Frutas y Verduras,-100,585
+29MZK,Toallitas húmedas (edición suave),Bebés y Maternidad,40,505
+KFDLB,Gel de ducha (pack x2),Cuidado Personal,0,505
+92UYM,Detergente líquido (presentación 2 L),Limpieza del Hogar,-20,475
+51QUZ,Desodorante en barra (pack x2),Cuidado Personal,0,515
+1Q25N,Cinta métrica (tamaño grande),Ferretería y Bricolaje,140,555
+67LFW,Pechuga de pollo (corte fino),Carnes y Aves,-140,425
+XA2QF,Menestras mixtas (paquete 250 g),Abarrotes,-200,565
+36VII,Muslo de pollo (corte fino),Carnes y Aves,-140,435
+Y3Z7R,Mancuernas (talla L),Deportes,160,525
+7UR4A,Calamar (corte limpio),Pescados y Mariscos,-120,665
+DBOE5,Plátano de seda (bandeja 500 g),Frutas y Verduras,-100,595
+JNJET,Taladro eléctrico (tamaño grande),Ferretería y Bricolaje,140,565
+R37B6,Queso crema (vaso 200 g),Lácteos,-160,585
+K60PV,Fórmula infantil (edición suave),Bebés y Maternidad,40,515
+57M2E,Ibuprofeno 400 mg (frasco 120 ml),Farmacia y Salud,20,475
+L0LES,Jugo de manzana (botella 2.5 L),Bebidas,-180,435
+1J839,Amoxicilina 500 mg (frasco 120 ml),Farmacia y Salud,20,485
+T622M,Conchas negras (corte limpio),Pescados y Mariscos,-120,675
+ZU2KV,Yogurt bebible de durazno (vaso 200 g),Lácteos,-160,595
+346TT,Papilla de frutas (edición suave),Bebés y Maternidad,40,525
+SZHUB,Broca para concreto (tamaño grande),Ferretería y Bricolaje,140,575
+1303I,Loratadina 10 mg (frasco 120 ml),Farmacia y Salud,20,495
+TQ1OB,Cuaderno rayado (pack x12),Librería y Papelería,180,515
+1QXHO,Cartucho de tinta (edición negra),Tecnología y Cómputo,100,645
+PA054,Choros (corte limpio),Pescados y Mariscos,-120,685
+01VRC,Frutos secos mixtos (pack x10),Snacks y Golosinas,-40,535
+WN0RL,Cereal infantil (edición suave),Bebés y Maternidad,40,535
+8YUS5,Galletas de vainilla (pack x10),Snacks y Golosinas,-40,545
+WJRC4,Omeprazol 20 mg (frasco 120 ml),Farmacia y Salud,20,505
+1MGNT,Desodorante roll-on (pack x2),Cuidado Personal,0,525
+GZ3H8,Filete de pescado empanizado (caja familiar),Congelados,-60,525
+3DEWV,Lapicero azul (pack x12),Librería y Papelería,180,525
+CGTH4,Colchoneta de yoga (talla L),Deportes,160,535
+OKSGO,Almejas (corte limpio),Pescados y Mariscos,-120,695
+GSEOE,Pasta dental (pack x2),Cuidado Personal,0,535
+UN6PI,Aros de cebolla congelados (caja familiar),Congelados,-60,535
+O8S8X,Pelota para perro (bolsa 15 kg),Mascotas,60,575
+UXLAI,Cangrejo (corte limpio),Pescados y Mariscos,-120,705
+92Q76,Colchón (color gris),Hogar y Muebles,120,535
+XIF1U,Brócoli congelado (caja familiar),Congelados,-60,545
+VBR27,Rascador para gato (bolsa 15 kg),Mascotas,60,585
+OX5Z8,Pollo entero (corte fino),Carnes y Aves,-140,445
+Q6PM9,Alitas de pollo (corte fino),Carnes y Aves,-140,455
+YJMQB,Lejía (presentación 2 L),Limpieza del Hogar,-20,485
+HWRJ8,Almohada (color gris),Hogar y Muebles,120,545
+MPSQJ,Néctar de durazno (botella 2.5 L),Bebidas,-180,445
+FP7YN,Té helado limón (botella 2.5 L),Bebidas,-180,455
+VHZFA,Shampoo para mascotas (bolsa 15 kg),Mascotas,60,595
+LV6J6,Leche chocolatada (vaso 200 g),Lácteos,-160,605
+QVELO,Lápiz HB (pack x12),Librería y Papelería,180,535
+CXNW1,Juego de sábanas (color gris),Hogar y Muebles,120,555
+AYU69,Mango congelado (caja familiar),Congelados,-60,555
+6DC9Z,Cepillo dental (pack x2),Cuidado Personal,0,545
+FAEMI,Desinfectante de pisos (presentación 2 L),Limpieza del Hogar,-20,495
+2PQM1,Salsa de tomate (paquete 250 g),Abarrotes,-200,575
+ZZZ6U,Ceviche de pescado preparado (corte limpio),Pescados y Mariscos,-120,715
+M5MCB,Borrador (pack x12),Librería y Papelería,180,545
+54MB0,Fresas congeladas (caja familiar),Congelados,-60,565
+4ROIW,Atún fresco (corte limpio),Pescados y Mariscos,-120,725
+FR6PO,Galletas rellenas de chocolate (pack x10),Snacks y Golosinas,-40,555
+751FL,Palitos de queso (caja familiar),Congelados,-60,575
+VSYLI,Clavos (tamaño grande),Ferretería y Bricolaje,140,585
+M2ZZC,Naranja de jugo (bandeja 500 g),Frutas y Verduras,-100,605
+V3JFF,Cuerda para saltar (talla L),Deportes,160,545
+GBZ12,Mayonesa (paquete 250 g),Abarrotes,-200,585
+G6IM7,Bandas elásticas (talla L),Deportes,160,555
+L2DQN,Muffin de arándanos (bandeja x12),Panadería y Pastelería,-80,615
+YJ7OM,Kéfir (vaso 200 g),Lácteos,-160,615
+T3X8X,Biberón anticólico (edición suave),Bebés y Maternidad,40,545
+N6V3V,Bebida isotónica (botella 2.5 L),Bebidas,-180,465
+Q6I87,Mermelada de fresa (paquete 250 g),Abarrotes,-200,595
+6EOQG,Guantes de gimnasio (talla L),Deportes,160,565
+L4W62,Anchoveta (corte limpio),Pescados y Mariscos,-120,735
+71PA9,Tajador (pack x12),Librería y Papelería,180,555
+CRKI0,Vitamina C (frasco 120 ml),Farmacia y Salud,20,515
+ZOX5N,Complejo B (frasco 120 ml),Farmacia y Salud,20,525
+PVC8W,Resaltador (pack x12),Librería y Papelería,180,565
+75JV4,Mandarina (bandeja 500 g),Frutas y Verduras,-100,615
+LGAYN,Multivitamínico (frasco 120 ml),Farmacia y Salud,20,535
+HJX8H,Suero oral (frasco 120 ml),Farmacia y Salud,20,545
+NE8DW,Chocolate de leche (pack x10),Snacks y Golosinas,-40,565
+0SOP2,Bebida energizante (botella 2.5 L),Bebidas,-180,475
+00MDJ,Pan pita (bandeja x12),Panadería y Pastelería,-80,625
+A5BGZ,Lasaña congelada (caja familiar),Congelados,-60,585
+QJHY6,Tornillos autorroscantes (tamaño grande),Ferretería y Bricolaje,140,595
+L7LFF,Enjuague bucal (pack x2),Cuidado Personal,0,555
+SCL5B,Power bank (edición negra),Tecnología y Cómputo,100,655
+3NC4F,Lomo fino de res (corte fino),Carnes y Aves,-140,465
+KZKDM,Lisa (corte limpio),Pescados y Mariscos,-120,745
+R8NBN,Cabrilla (corte limpio),Pescados y Mariscos,-120,755
+93D7F,Café molido (paquete 250 g),Abarrotes,-200,605
+Y25IP,Cojinova (corte limpio),Pescados y Mariscos,-120,765
+SX5DO,Filete de tilapia (porción individual),Pescados y Mariscos,-120,775
+IN87C,Pan de ajo congelado (caja familiar),Congelados,-60,595
+NHSLR,Crema corporal (pack x2),Cuidado Personal,0,565
+67JQW,Pintura látex blanca (tamaño grande),Ferretería y Bricolaje,140,605
+K6ETU,Olla arrocera (edición acero),Electrohogar,80,595
+TAN9N,Frazada (color gris),Hogar y Muebles,120,565
+CCFMV,Chocolate amargo (pack x10),Snacks y Golosinas,-40,575
+KTRE4,Requesón (vaso 200 g),Lácteos,-160,625
+BB8IB,Leche evaporada (paquete 250 g),Abarrotes,-200,615
+Z1YKU,Cortinas (color gris),Hogar y Muebles,120,575
+1MQ7J,Alcohol medicinal (frasco 120 ml),Farmacia y Salud,20,555
+E0KEH,Protector solar (pack x2),Cuidado Personal,0,575
+OM41Z,Limpiavidrios (presentación 2 L),Limpieza del Hogar,-20,505
+S7VD1,Caramelos de menta (pack x10),Snacks y Golosinas,-40,585
+OAGCN,Brocha (tamaño grande),Ferretería y Bricolaje,140,615
+Y6VGI,Mousepad (edición negra),Tecnología y Cómputo,100,665
+6E0GH,Alfombra (color gris),Hogar y Muebles,120,585
+9TU4H,Botella deportiva (talla L),Deportes,160,575
+RW45I,Mariscos mixtos congelados (caja familiar),Congelados,-60,605
+KYIF6,Chicles (pack x10),Snacks y Golosinas,-40,595
+PBLTR,Uva red globe (bandeja 500 g),Frutas y Verduras,-100,625
+HQGQZ,Leche en polvo (vaso 200 g),Lácteos,-160,635
+8REZR,Crema facial hidratante (pack x2),Cuidado Personal,0,585
+6YDKZ,Lavavajilla líquido (presentación 2 L),Limpieza del Hogar,-20,515
+3339J,Afeitadora desechable (pack x2),Cuidado Personal,0,595
+STSB7,Quinua (paquete 250 g),Abarrotes,-200,625
+38S1Z,Gomitas de fruta (pack x10),Snacks y Golosinas,-40,605
+B5ONL,Raqueta de tenis (talla L),Deportes,160,585
+AIWTO,Esponja (presentación 2 L),Limpieza del Hogar,-20,525
+DSCV3,Fresa (bandeja 500 g),Frutas y Verduras,-100,635
+JE7UB,Espuma de afeitar (pack x2),Cuidado Personal,0,605
+SGTHH,Chicha morada (botella 2.5 L),Bebidas,-180,485
+8Q146,Escoba (presentación 2 L),Limpieza del Hogar,-20,535
+5J2VX,Bistec de res (corte fino),Carnes y Aves,-140,475
+9NQ3O,Filete de lenguado (porción individual),Pescados y Mariscos,-120,785
+O5M6K,Plumones (pack x12),Librería y Papelería,180,575
+PAAP6,Pulpa de maracuyá congelada (caja familiar),Congelados,-60,615
+S94GW,Rodillo (tamaño grande),Ferretería y Bricolaje,140,625
+WI43P,Recogedor (presentación 2 L),Limpieza del Hogar,-20,545
+SM6FU,Barra de cereal (pack x10),Snacks y Golosinas,-40,615
+X0B98,Limonada embotellada (botella 2.5 L),Bebidas,-180,495
+8FW4W,Pallares (paquete 250 g),Abarrotes,-200,635
+K84PP,Antipulgas (bolsa 15 kg),Mascotas,60,605
+8D60Q,Chupón de silicona (edición suave),Bebés y Maternidad,40,555
+KPC5V,Colores (pack x12),Librería y Papelería,180,585
+E9DJA,Filete de pejerrey (porción individual),Pescados y Mariscos,-120,795
+Y8VPF,Toallas higiénicas (pack x2),Cuidado Personal,0,615
+V5NVX,Palta Hass (bandeja 500 g),Frutas y Verduras,-100,645
+PC4K5,Palomitas de maíz (pack x10),Snacks y Golosinas,-40,625
+1UTZN,Cinta aislante (tamaño grande),Ferretería y Bricolaje,140,635
+CB5T7,Raqueta de bádminton (talla L),Deportes,160,595
+QYOIV,Lámpara de mesa (color gris),Hogar y Muebles,120,595
+W9511,Comedero de acero (bolsa 15 kg),Mascotas,60,615
+4UWMR,Limón (bandeja 500 g),Frutas y Verduras,-100,655
+6Y2TG,Casco de ciclismo (talla L),Deportes,160,605
+T5N88,Mochila deportiva (talla L),Deportes,160,615
+IXFC2,Agua oxigenada (frasco 120 ml),Farmacia y Salud,20,565
+BWM5W,Medias deportivas (talla L),Deportes,160,625
+IWBPS,Cable eléctrico (tamaño grande),Ferretería y Bricolaje,140,645
+OUC0J,Papel higiénico (pack x2),Cuidado Personal,0,625
+75EKU,Rodillera (talla L),Deportes,160,635
+9IJAM,Procesador de alimentos (edición acero),Electrohogar,80,605
+42AF8,Carne molida (corte fino),Carnes y Aves,-140,485
+85JEP,Refrigeradora (edición acero),Electrohogar,80,615
+7TWBN,Costillar de cerdo (corte fino),Carnes y Aves,-140,495
+VVPEQ,Hilo dental (pack x2),Cuidado Personal,0,635
+N7ISP,Lavadora (edición acero),Electrohogar,80,625
+HC9CG,Cerveza rubia (botella 2.5 L),Bebidas,-180,505
+XBIGE,Foco LED (tamaño grande),Ferretería y Bricolaje,140,655
+2JWDL,Brownie (bandeja x12),Panadería y Pastelería,-80,635
+QDN4Y,Espejo de pared (color gris),Hogar y Muebles,120,605
+M2ZZ8,Panetón (bandeja x12),Panadería y Pastelería,-80,645
+9XIRR,Shampoo para bebé (edición suave),Bebés y Maternidad,40,565
+56ZAD,Bizcocho de naranja (bandeja x12),Panadería y Pastelería,-80,655
+2NQ6E,Gasas estériles (frasco 120 ml),Farmacia y Salud,20,575
+HLNFV,Chuleta de cerdo (corte fino),Carnes y Aves,-140,505
+H0V6U,Regla de 30 cm (pack x12),Librería y Papelería,180,595
+EZ0X7,Estante para libros (color gris),Hogar y Muebles,120,615
+K2VT1,Mantequilla (paquete 250 g),Abarrotes,-200,645
+KOZI2,Micrófono USB (edición negra),Tecnología y Cómputo,100,675
+SKSTF,Piña (bandeja 500 g),Frutas y Verduras,-100,665
+H0MM0,Bonito (porción individual),Pescados y Mariscos,-120,805
+F5L7A,Jabón líquido para bebé (edición suave),Bebés y Maternidad,40,575
+NXQCQ,Cheese tris (pack x10),Snacks y Golosinas,-40,635
+1SCUW,Trapeador (presentación 2 L),Limpieza del Hogar,-20,555
+4NFGU,Canilleras (talla L),Deportes,160,645
+9L83V,Crema antipañalitis (edición suave),Bebés y Maternidad,40,585
+KSZPM,Talco para bebé (edición suave),Bebés y Maternidad,40,595
+QTE2A,Compás (pack x12),Librería y Papelería,180,605
+RZK91,Jurel (porción individual),Pescados y Mariscos,-120,815
+UGWI5,Pan de camote (bandeja x12),Panadería y Pastelería,-80,665
+HVIHY,Piqueo snax (pack x10),Snacks y Golosinas,-40,645
+YI9RR,Curitas (frasco 120 ml),Farmacia y Salud,20,585
+UYJPA,Bebedero automático (bolsa 15 kg),Mascotas,60,625
+V3PPL,Turrón (pack x10),Snacks y Golosinas,-40,655
+XWF0O,Cocina a gas (edición acero),Electrohogar,80,635
+JTFYQ,Extractor de jugos (edición acero),Electrohogar,80,645
+C8UM2,Colonia para bebé (edición suave),Bebés y Maternidad,40,605
+490U8,Balde (presentación 2 L),Limpieza del Hogar,-20,565
+D4Q8Z,Purificador de aire (edición acero),Electrohogar,80,655
+APPJJ,Candado (tamaño grande),Ferretería y Bricolaje,140,665
+YDTQA,Silbato (talla L),Deportes,160,655
+L858X,Colonia (pack x2),Cuidado Personal,0,645
+SWV7Y,Marshmallows (pack x10),Snacks y Golosinas,-40,665
+BRJZG,Queso paria (vaso 200 g),Lácteos,-160,645
+TDAO2,Mango Kent (bandeja 500 g),Frutas y Verduras,-100,675
+TGFN2,Bisagra (tamaño grande),Ferretería y Bricolaje,140,675
+QH36L,Esmalte de uñas (pack x2),Cuidado Personal,0,655
+TXVKR,Tinte para cabello (pack x2),Cuidado Personal,0,665
+803I8,Paño de microfibra (presentación 2 L),Limpieza del Hogar,-20,575
+HK0OO,Papaya (bandeja 500 g),Frutas y Verduras,-100,685
+TKLVT,Red de vóley (talla L),Deportes,160,665
+DQLUS,Mesa de noche (color gris),Hogar y Muebles,120,625
+EHBTM,Nuggets de pollo (presentación individual),Congelados,-60,625
+5M1AQ,Conserva de durazno (paquete 250 g),Abarrotes,-200,655
+QUPSD,Secadora de cabello (edición acero),Electrohogar,80,665
+T2AA4,Serrucho (tamaño grande),Ferretería y Bricolaje,140,685
+TK5XY,Fideos tallarín (paquete 250 g),Abarrotes,-200,665
+B6NJY,Cheesecake de fresa (bandeja x12),Panadería y Pastelería,-80,675
+H0BUJ,Bomba de aire (talla L),Deportes,160,675
+NBA7H,Babero de algodón (edición suave),Bebés y Maternidad,40,615
+J0KB6,Chupetes (pack x10),Snacks y Golosinas,-40,675
+3Q0QW,Pan francés (porción familiar),Panadería y Pastelería,-80,685
+VICR2,Transportadora (bolsa 15 kg),Mascotas,60,635
+4JM5K,Mascarillas quirúrgicas (frasco 120 ml),Farmacia y Salud,20,595
+Y6EBV,Termómetro digital (frasco 120 ml),Farmacia y Salud,20,605
+HV038,Chorizo parrillero (corte fino),Carnes y Aves,-140,515
+UVBYU,Pelota de fútbol N°5 (modelo pro),Deportes,160,685
+QWMD3,Bolsas de basura (presentación 2 L),Limpieza del Hogar,-20,585
+FWCKU,Bastoncillos de algodón (pack x2),Cuidado Personal,0,675
+ILS27,Leche entera (pote 1 kg),Lácteos,-160,655
+KZUBV,Nivel de burbuja (tamaño grande),Ferretería y Bricolaje,140,695
+YWUIG,Caballa (porción individual),Pescados y Mariscos,-120,825
+IMVOB,Papas fritas congeladas (presentación individual),Congelados,-60,635
+OH5K8,Hueso de cuero prensado (bolsa 15 kg),Mascotas,60,645
+YV2ST,Corvina (porción individual),Pescados y Mariscos,-120,835
+JR6O0,Pan de molde blanco (porción familiar),Panadería y Pastelería,-80,695
+JDGEA,Horno eléctrico (edición acero),Electrohogar,80,675
+40LWC,Shampoo anticaspa (presentación familiar),Cuidado Personal,0,685
+321AT,Hamburguesa de res (presentación individual),Congelados,-60,645
+QX4I3,Hot dog de pavo (corte fino),Carnes y Aves,-140,525
+YH7NI,Mameluco de algodón (edición suave),Bebés y Maternidad,40,625
+FQO9P,Sandía (bandeja 500 g),Frutas y Verduras,-100,695
+7UQJN,Tijeras escolares (pack x12),Librería y Papelería,180,615
+7H0WL,Sacaleche manual (edición suave),Bebés y Maternidad,40,635
+HEXVF,Ropero (color gris),Hogar y Muebles,120,635
+EX5F7,Almohadilla de lactancia (edición suave),Bebés y Maternidad,40,645
+DE7Q9,Helado de vainilla (presentación individual),Congelados,-60,655
+H3218,Suavizante de ropa (presentación 2 L),Limpieza del Hogar,-20,595
+OVLFG,Sillao (paquete 250 g),Abarrotes,-200,675
+RUHJF,Melón (bandeja 500 g),Frutas y Verduras,-100,705
+YCCYE,Helado de chocolate (presentación individual),Congelados,-60,665
+J5E0L,Goma en barra (pack x12),Librería y Papelería,180,625
+YKVG4,Estabilizador (edición negra),Tecnología y Cómputo,100,685
+GTH5U,Cuna portátil (edición suave),Bebés y Maternidad,40,655
+3FO0U,Quitamanchas (presentación 2 L),Limpieza del Hogar,-20,605
+CF0SQ,Pota (porción individual),Pescados y Mariscos,-120,845
+QTBYD,Wafer (pack x10),Snacks y Golosinas,-40,685
+FAJHF,Shampoo para cabello graso (presentación familiar),Cuidado Personal,0,695
+Z49GB,Arnés para perro (bolsa 15 kg),Mascotas,60,655
+R320A,Acondicionador (presentación familiar),Cuidado Personal,0,705
+O2T3S,Zapatero (color gris),Hogar y Muebles,120,645
+8ISA2,Salmón fresco (porción individual),Pescados y Mariscos,-120,855
+QQFVE,Organizador plástico (color gris),Hogar y Muebles,120,655
+6ZEQE,Leche descremada (pote 1 kg),Lácteos,-160,665
+XEKG1,Pasas con chocolate (pack x10),Snacks y Golosinas,-40,695
+EMTQG,Pan integral (porción familiar),Panadería y Pastelería,-80,705
+J4ZYF,Juego de ollas (color gris),Hogar y Muebles,120,665
+AS3H3,Pegamento instantáneo (tamaño grande),Ferretería y Bricolaje,140,705
+2A2ZI,Papel bond A4 (pack x12),Librería y Papelería,180,635
+LL6IG,Vino tinto (botella 2.5 L),Bebidas,-180,515
+U7ZG0,Folder manila (pack x12),Librería y Papelería,180,645
+2H1CV,Jabón de tocador (presentación familiar),Cuidado Personal,0,715
+WYY54,Coche de paseo (edición suave),Bebés y Maternidad,40,665
+5HTIN,Pan ciabatta (porción familiar),Panadería y Pastelería,-80,715
+4K1CJ,Archivador (pack x12),Librería y Papelería,180,655
+RAMN0,Jamón de pavo (corte fino),Carnes y Aves,-140,535
+0TAA1,Arroz extra (presentación familiar),Abarrotes,-200,685
+2CAG6,Tarjeta microSD (edición negra),Tecnología y Cómputo,100,695
+BIN54,Tensiómetro (frasco 120 ml),Farmacia y Salud,20,615
+YX93H,Licuadora (capacidad grande),Electrohogar,80,685
+DUHVC,Azúcar rubia (presentación familiar),Abarrotes,-200,695
+5OHRR,Tomate (bandeja 500 g),Frutas y Verduras,-100,715
+J3LSE,Croissant (porción familiar),Panadería y Pastelería,-80,725
+SY74F,Jamonada (corte fino),Carnes y Aves,-140,545
+UJUTI,Corrector líquido (pack x12),Librería y Papelería,180,665
+6EXB4,Desengrasante (presentación 2 L),Limpieza del Hogar,-20,615
+TIVHD,Empanada de carne (porción familiar),Panadería y Pastelería,-80,735
+JBZ2H,Silicona selladora (tamaño grande),Ferretería y Bricolaje,140,715
+O23EA,Gel de ducha (presentación familiar),Cuidado Personal,0,725
+XMEWF,Tubo PVC (tamaño grande),Ferretería y Bricolaje,140,725
+K7UAG,Tocino ahumado (corte fino),Carnes y Aves,-140,555
+5SEMY,Pelota de vóley (modelo pro),Deportes,160,695
+2LJYP,Nachos (pack x10),Snacks y Golosinas,-40,705
+HMQUU,Cafetera eléctrica (capacidad grande),Electrohogar,80,695
+5BC48,Pelota de básquet (modelo pro),Deportes,160,705
+PYE7G,Jarabe para la tos (frasco 120 ml),Farmacia y Salud,20,625
+O22UW,Zapatillas de running (modelo pro),Deportes,160,715
+S9ERN,Ambientador (presentación 2 L),Limpieza del Hogar,-20,625
+VC39L,Fideos spaghetti (presentación familiar),Abarrotes,-200,705
+7SPHL,Hígado de res (corte fino),Carnes y Aves,-140,565
+7PASL,Juego de vasos (color gris),Hogar y Muebles,120,675
+BIOWA,Short deportivo (modelo pro),Deportes,160,725
+HOFD3,Soporte para laptop (edición negra),Tecnología y Cómputo,100,705
+170N8,Papas fritas clásicas (tamaño familiar),Snacks y Golosinas,-40,715
+NMCI5,Pastillas para la garganta (frasco 120 ml),Farmacia y Salud,20,635
+5A0FH,Pizza congelada (presentación individual),Congelados,-60,675
+27O91,Desodorante en barra (presentación familiar),Cuidado Personal,0,735
+FEZUD,Aceite vegetal (presentación familiar),Abarrotes,-200,715
+824E2,Leche deslactosada (pote 1 kg),Lácteos,-160,675
+XLWP5,Termómetro digital infantil (edición suave),Bebés y Maternidad,40,675
+B3NXX,Trucha (porción individual),Pescados y Mariscos,-120,865
+DFOLT,Cebolla roja (bandeja 500 g),Frutas y Verduras,-100,725
+P88IF,Vajilla de cerámica (color gris),Hogar y Muebles,120,685
+V02DY,Insecticida (presentación 2 L),Limpieza del Hogar,-20,635
+AXD8D,Gotas oftálmicas (frasco 120 ml),Farmacia y Salud,20,645
+WY96G,Merluza (porción individual),Pescados y Mariscos,-120,875
+IE13T,Pavo entero (corte fino),Carnes y Aves,-140,575
+NEBKZ,Papa blanca (bandeja 500 g),Frutas y Verduras,-100,735
+Q3XHL,Laptop 15.6 pulgadas (edición blanca),Tecnología y Cómputo,100,715
+KXFF3,Crema cicatrizante (frasco 120 ml),Farmacia y Salud,20,655
+WRN3V,Pañales etapa 1 (hipoalergénico),Bebés y Maternidad,40,685
+2YVN7,Limpiador de baños (presentación 2 L),Limpieza del Hogar,-20,645
+LHWBL,Calculadora científica (pack x12),Librería y Papelería,180,675
+VVG14,Calcio con vitamina D (frasco 120 ml),Farmacia y Salud,20,665
+TY186,Papas fritas con limón (tamaño familiar),Snacks y Golosinas,-40,725
+0D0H0,Torta de chocolate (porción familiar),Panadería y Pastelería,-80,745
+PTJ90,Mochila escolar (pack x12),Librería y Papelería,180,685
+DAK9L,Torta tres leches (porción familiar),Panadería y Pastelería,-80,755
+ZUKG1,Gel antibacterial (frasco 120 ml),Farmacia y Salud,20,675
+Z1BFD,Alimento para peces (bolsa 15 kg),Mascotas,60,665
+XNYAG,Guantes de limpieza (presentación 2 L),Limpieza del Hogar,-20,655
+WTFJA,Polo deportivo (modelo pro),Deportes,160,735
+E3RTM,Pañales etapa 2 (hipoalergénico),Bebés y Maternidad,40,695
+07ZDK,Lentejas (presentación familiar),Abarrotes,-200,725
+DOHFY,Mouse inalámbrico (edición blanca),Tecnología y Cómputo,100,725
+ELS87,Chifles (tamaño familiar),Snacks y Golosinas,-40,735
+BVDAW,Pecera pequeña (bolsa 15 kg),Mascotas,60,675
+9TX4Q,Hervidor eléctrico (capacidad grande),Electrohogar,80,705
+V06ZY,Camarón (porción individual),Pescados y Mariscos,-120,885
+69L8O,Cancha serrana (tamaño familiar),Snacks y Golosinas,-40,745
+BA2PY,Yogurt natural (pote 1 kg),Lácteos,-160,685
+MSPVT,Desodorante roll-on (presentación familiar),Cuidado Personal,0,745
+V1J2X,Camote (bandeja 500 g),Frutas y Verduras,-100,745
+LZRML,Verduras mixtas congeladas (presentación individual),Congelados,-60,685
+OL1X9,Maní salado (tamaño familiar),Snacks y Golosinas,-40,755
+C2AOO,Keke de vainilla (porción familiar),Panadería y Pastelería,-80,765
+5QSPB,Pañales etapa 3 (hipoalergénico),Bebés y Maternidad,40,705
+483U9,Langostino (porción individual),Pescados y Mariscos,-120,895
+8YDKO,Frutos secos mixtos (tamaño familiar),Snacks y Golosinas,-40,765
+ZJEM6,Cojín decorativo (color gris),Hogar y Muebles,120,695
+DZFZC,Pisco quebranta (botella 2.5 L),Bebidas,-180,525
+P2G4W,Pañales etapa 4 (hipoalergénico),Bebés y Maternidad,40,715
+JUU1W,Comida seca para perro adulto (talla S),Mascotas,60,685
+VRSX7,Pasta dental (presentación familiar),Cuidado Personal,0,755
+VWWIE,Comida seca para cachorro (talla S),Mascotas,60,695
+AVXY7,Arvejas congeladas (presentación individual),Congelados,-60,695
+EPTOT,Choclo desgranado congelado (presentación individual),Congelados,-60,705
+QVN0Z,Toallitas húmedas (hipoalergénico),Bebés y Maternidad,40,725
+PQJVE,Churrasco (corte fino),Carnes y Aves,-140,585
+PSNNW,Galletas de vainilla (tamaño familiar),Snacks y Golosinas,-40,775
+BB02A,Mancuernas (modelo pro),Deportes,160,745
+62Y9G,Frejoles canario (presentación familiar),Abarrotes,-200,735
+4CVFC,Cartulina (pack x12),Librería y Papelería,180,695
+75VXA,Fórmula infantil (hipoalergénico),Bebés y Maternidad,40,735
+RDF45,Comida húmeda para perro (talla S),Mascotas,60,705
+MNYUZ,Guantes de seguridad (tamaño grande),Ferretería y Bricolaje,140,735
+FRCSQ,Colchoneta de yoga (modelo pro),Deportes,160,755
+NXHT4,Yogurt de fresa (pote 1 kg),Lácteos,-160,695
+JLWQG,Harina preparada (presentación familiar),Abarrotes,-200,745
+DXA9Y,Cubiertos de acero (color gris),Hogar y Muebles,120,705
+HNMSK,Empanadas congeladas (presentación individual),Congelados,-60,715
+7CEZ4,Cepillo dental (presentación familiar),Cuidado Personal,0,765
+6YM3M,Zanahoria (bandeja 500 g),Frutas y Verduras,-100,755
+X4IWX,Galletas rellenas de chocolate (tamaño familiar),Snacks y Golosinas,-40,785
+2S5B2,Lechuga (bandeja 500 g),Frutas y Verduras,-100,765
+EG8J9,Plancha a vapor (capacidad grande),Electrohogar,80,715
+OQMDE,Pulpa de cerdo (corte fino),Carnes y Aves,-140,595
+AXSRN,Cordero (corte fino),Carnes y Aves,-140,605
+V3JHK,Pulpo (porción individual),Pescados y Mariscos,-120,905
+UNF6V,Martillo (pack x10),Ferretería y Bricolaje,140,745
+PG78A,Sofá de tres cuerpos (color madera),Hogar y Muebles,120,715
+BSJCX,Mesa de comedor (color madera),Hogar y Muebles,120,725
+AZHKM,Espinaca (bandeja 500 g),Frutas y Verduras,-100,775
+LJKBL,Freidora de aire (capacidad grande),Electrohogar,80,725
+VXECB,Destornillador plano (pack x10),Ferretería y Bricolaje,140,755
+NRVKR,Brócoli (bandeja 500 g),Frutas y Verduras,-100,785
+S9YDU,Papilla de frutas (hipoalergénico),Bebés y Maternidad,40,745
+8R1LD,Choclo (bandeja 500 g),Frutas y Verduras,-100,795
+RKKMD,Cereal infantil (hipoalergénico),Bebés y Maternidad,40,755
+U0Z2Y,Silla de comedor (color madera),Hogar y Muebles,120,735
+VCLZ8,Paracetamol 500 mg (presentación familiar),Farmacia y Salud,20,685
+REJEK,Témperas (pack x12),Librería y Papelería,180,705
+A13RX,Teclado mecánico (edición blanca),Tecnología y Cómputo,100,735
+R7JQC,Destornillador estrella (pack x10),Ferretería y Bricolaje,140,765
+K7SXW,Alfajores (porción familiar),Panadería y Pastelería,-80,775
+OAPMP,Pizarra acrílica (pack x12),Librería y Papelería,180,715
+5S1XW,Papel toalla (presentación 2 L),Limpieza del Hogar,-20,665
+VJHGV,Filete de pescado empanizado (presentación individual),Congelados,-60,725
+QWDFM,Salchicha de res (corte fino),Carnes y Aves,-140,615
+XPLIV,Pechuga de pollo (corte familiar),Carnes y Aves,-140,625
+C4UXG,Alicate universal (pack x10),Ferretería y Bricolaje,140,775
+ASVZV,Yogurt griego (pote 1 kg),Lácteos,-160,705
+W2DVH,Cuerda para saltar (modelo pro),Deportes,160,765
+OJ5V2,Calamar (porción individual),Pescados y Mariscos,-120,915
+C6S9M,Llave inglesa (pack x10),Ferretería y Bricolaje,140,785
+006ON,Pimiento (bandeja 500 g),Frutas y Verduras,-100,805
+VAEST,Monitor 24 pulgadas (edición blanca),Tecnología y Cómputo,100,745
+Y0C3S,Jabón de ropa (presentación 2 L),Limpieza del Hogar,-20,675
+VH3L3,Chocolate de leche (tamaño familiar),Snacks y Golosinas,-40,795
+S9PJ2,Comida seca para gato adulto (talla S),Mascotas,60,715
+NEFX2,Galletas de avena (porción familiar),Panadería y Pastelería,-80,785
+LL7YZ,Audífonos Bluetooth (edición blanca),Tecnología y Cómputo,100,755
+71K1L,Pan de yema (porción familiar),Panadería y Pastelería,-80,795
+0J30R,Cinta métrica (pack x10),Ferretería y Bricolaje,140,795
+XO12C,Parlante portátil (edición blanca),Tecnología y Cómputo,100,765
+6B2QC,Comida para gatitos (talla S),Mascotas,60,725
+FVUVD,Biberón anticólico (hipoalergénico),Bebés y Maternidad,40,765
+39XHP,Escritorio (color madera),Hogar y Muebles,120,745
+UWD0P,Atún en conserva (presentación familiar),Abarrotes,-200,755
+38WS1,Conchas negras (porción individual),Pescados y Mariscos,-120,925
+NGHOL,Cama de dos plazas (color madera),Hogar y Muebles,120,755
+6Q2EO,Detergente en polvo (pack ahorro),Limpieza del Hogar,-20,685
+ESGCX,Snack dental para perro (talla S),Mascotas,60,735
+ZCDU5,Microondas (capacidad grande),Electrohogar,80,735
+E6K18,Detergente líquido (pack ahorro),Limpieza del Hogar,-20,695
+5Q0GC,Colchón (color madera),Hogar y Muebles,120,765
+AYFTX,Chupón de silicona (hipoalergénico),Bebés y Maternidad,40,775
+9SYDA,Gaseosa lima limón (botella 2.5 L),Bebidas,-180,535
+RH25E,Queso fresco (pote 1 kg),Lácteos,-160,715
+ICZGI,Ajo (bandeja 500 g),Frutas y Verduras,-100,815
+D5AHW,Post-it (pack x12),Librería y Papelería,180,725
+FY68L,Chocolate amargo (tamaño familiar),Snacks y Golosinas,-40,805
+23505,Engrapador (pack x12),Librería y Papelería,180,735
+8BURL,Choros (porción individual),Pescados y Mariscos,-120,935
+VANAJ,Churros (porción familiar),Panadería y Pastelería,-80,805
+DL3U6,Ibuprofeno 400 mg (presentación familiar),Farmacia y Salud,20,695
+HGUGU,Amoxicilina 500 mg (presentación familiar),Farmacia y Salud,20,705
+7BH87,Shampoo para bebé (hipoalergénico),Bebés y Maternidad,40,785
+YOKLV,Culantro (bandeja 500 g),Frutas y Verduras,-100,825
+ZNEBE,Aspiradora (capacidad grande),Electrohogar,80,745
+PXYHK,Arena sanitaria para gato (talla S),Mascotas,60,745
+2LCHA,Cuaderno cuadriculado (caja),Librería y Papelería,180,745
+KX0W5,Avena en hojuelas (presentación familiar),Abarrotes,-200,765
+555P2,Taladro eléctrico (pack x10),Ferretería y Bricolaje,140,805
+3Q3QI,Pepino (bandeja 500 g),Frutas y Verduras,-100,835
+CHAGP,Jabón líquido para bebé (hipoalergénico),Bebés y Maternidad,40,795
+5YS2F,Refresco de maracuyá (botella 2.5 L),Bebidas,-180,545
+L69J3,Zapallo (bandeja 500 g),Frutas y Verduras,-100,845
+SB87F,Crema antipañalitis (hipoalergénico),Bebés y Maternidad,40,805
+E2DPX,Lejía (pack ahorro),Limpieza del Hogar,-20,705
+J8TTL,Bandas elásticas (modelo pro),Deportes,160,775
+NBRIO,Enjuague bucal (presentación familiar),Cuidado Personal,0,775
+BI18C,Betarraga (bandeja 500 g),Frutas y Verduras,-100,855
+J5I7S,Broca para concreto (pack x10),Ferretería y Bricolaje,140,815
+49FU1,Caramelos de menta (tamaño familiar),Snacks y Golosinas,-40,815
+ZX548,Sal de mesa (presentación familiar),Abarrotes,-200,775
+JPUG9,Muslo de pollo (corte familiar),Carnes y Aves,-140,635
+MJWXS,Clavos (pack x10),Ferretería y Bricolaje,140,825
+W5P0J,Tornillos autorroscantes (pack x10),Ferretería y Bricolaje,140,835
+W6WO0,Manzana (orgánico x kg),Frutas y Verduras,-100,865
+ACKUB,Almejas (porción individual),Pescados y Mariscos,-120,945
+EAETU,Desinfectante de pisos (pack ahorro),Limpieza del Hogar,-20,715
+TMKBR,Queso mozzarella (pote 1 kg),Lácteos,-160,725
+16XFL,Cangrejo (porción individual),Pescados y Mariscos,-120,955
+ON1E9,Ceviche de pescado preparado (porción individual),Pescados y Mariscos,-120,965
+OY5EF,Menestras mixtas (presentación familiar),Abarrotes,-200,785
+02IK5,Plátano de seda (orgánico x kg),Frutas y Verduras,-100,875
+OBKHE,Collar para perro (talla S),Mascotas,60,755
+9AUET,Kombucha (botella 2.5 L),Bebidas,-180,555
+B6K2Z,Loratadina 10 mg (presentación familiar),Farmacia y Salud,20,715
+1F9TV,Guantes de gimnasio (modelo pro),Deportes,160,785
+D0Y34,Agua mineral sin gas (lata 355 ml),Bebidas,-180,565
+A1,Pasillo Abarrotes,Pasillo,-200,15
+A2,Pasillo Bebidas,Pasillo,-180,15
+A3,Pasillo Lácteos,Pasillo,-160,15
+A4,Pasillo Carnes y Aves,Pasillo,-140,15
+A5,Pasillo Pescados y Mariscos,Pasillo,-120,15
+A6,Pasillo Frutas y Verduras,Pasillo,-100,15
+A7,Pasillo Panadería y Pastelería,Pasillo,-80,15
+A8,Pasillo Congelados,Pasillo,-60,15
+A9,Pasillo Snacks y Golosinas,Pasillo,-40,15
+A10,Pasillo Limpieza del Hogar,Pasillo,-20,15
+A11,Pasillo Cuidado Personal,Pasillo,0,15
+A12,Pasillo Farmacia y Salud,Pasillo,20,15
+A13,Pasillo Bebés y Maternidad,Pasillo,40,15
+A14,Pasillo Mascotas,Pasillo,60,15
+A15,Pasillo Electrohogar,Pasillo,80,15
+A16,Pasillo Tecnología y Cómputo,Pasillo,100,15
+A17,Pasillo Hogar y Muebles,Pasillo,120,15
+A18,Pasillo Ferretería y Bricolaje,Pasillo,140,15
+A19,Pasillo Deportes,Pasillo,160,15
+A20,Pasillo Librería y Papelería,Pasillo,180,15
+FA1,fin Pasillo Abarrotes,Salida,-200,985
+FA2,fin Pasillo Bebidas,Salida,-180,985
+FA3,fin Pasillo Lácteos,Salida,-160,985
+FA4,fin Pasillo Carnes y Aves,Salida,-140,985
+FA5,fin Pasillo Pescados y Mariscos,Salida,-120,985
+FA6,fin Pasillo Frutas y Verduras,Salida,-100,985
+FA7,fin Pasillo Panadería y Pastelería,Salida,-80,985
+FA8,fin Pasillo Congelados,Salida,-60,985
+FA9,fin Pasillo Snacks y Golosinas,Salida,-40,985
+FA10,fin Pasillo Limpieza del Hogar,Salida,-20,985
+FA11,fin Pasillo Cuidado Personal,Salida,0,985
+FA12,fin Pasillo Farmacia y Salud,Salida,20,985
+FA13,fin Pasillo Bebés y Maternidad,Salida,40,985
+FA14,fin Pasillo Mascotas,Salida,60,985
+FA15,fin Pasillo Electrohogar,Salida,80,985
+FA16,fin Pasillo Tecnología y Cómputo,Salida,100,985
+FA17,fin Pasillo Hogar y Muebles,Salida,120,985
+FA18,fin Pasillo Ferretería y Bricolaje,Salida,140,985
+FA19,fin Pasillo Deportes,Salida,160,985
+FA20,fin Pasillo Librería y Papelería,Salida,180,985
